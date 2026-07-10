@@ -114,11 +114,6 @@
       "chinese": "虎形拳",
       "vietnamese": "Hổ hình quyền",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "- [genre]",
-      "vietnamese": "Cho các thuật ngữ tu luyện, cảnh giới, tên đan dược phổ biến cho cả thể loại truyện này.",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }
