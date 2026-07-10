@@ -267,12 +267,207 @@
     },
     {
       "chinese": "虎虎生风",
-      "vietnamese": "Hổ hổ sinh phong (miêu tả khí thế mạnh mẽ)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Hổ hổ sinh phong (khí thế mạnh mẽ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hổ hổ sinh phong (miêu tả khí thế mạnh mẽ))"
     },
     {
       "chinese": "泫然欲泣",
       "vietnamese": "Huyễn nhiên dục khấp (chực trào nước mắt)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "骨碎",
+      "vietnamese": "Cốt toái (xương vỡ vụn)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "良师",
+      "vietnamese": "Lương sư (thầy tốt)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "捕快",
+      "vietnamese": "Nha môn (nơi quan làm việc)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "五味杂陈",
+      "vietnamese": "Ngũ vị tạp trần (nhiều cảm xúc đan xen)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "昌獗",
+      "vietnamese": "Xương quyết (lộng hành/hung hăng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "地头蛇",
+      "vietnamese": "Địa đầu xà",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Địa đầu sà (cường hào địa phương))"
+    },
+    {
+      "chinese": "过江龙",
+      "vietnamese": "Quá giang long",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quá giang long (người quyền lực từ nơi khác đến))"
+    },
+    {
+      "chinese": "制式长刀",
+      "vietnamese": "Đao chế thức (đao quân dụng tiêu chuẩn)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "明察暗斗",
+      "vietnamese": "Minh tranh ám đấu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "衙门",
+      "vietnamese": "Nha môn (công đường/nơi làm việc của quan)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不择手段",
+      "vietnamese": "Không từ thủ đoạn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不胜枚举",
+      "vietnamese": "Không đếm xuể",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不以为然",
+      "vietnamese": "Không thèm chấp nhặt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "如履薄冰",
+      "vietnamese": "Như dẫm trên băng mỏng (thận trọng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "称心如意",
+      "vietnamese": "Nhất ý thuận lòng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "同僚",
+      "vietnamese": "Đồng liêu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "赏脸",
+      "vietnamese": "Nể mặt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "妻室",
+      "vietnamese": "Thê thất (vợ)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "宁为玉碎，不为瓦全",
+      "vietnamese": "Thà làm ngọc vỡ chứ không làm ngói lành (lòng tự trọng/kiên định)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不识时务",
+      "vietnamese": "Không thức thời",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "胞弟",
+      "vietnamese": "Bào đệ (em trai ruột)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "兄弟情深",
+      "vietnamese": "Huynh đệ tình thâm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "择人而噬",
+      "vietnamese": "Trạch nhân nhi phệ (chực chờ ăn thịt người)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "视线",
+      "vietnamese": "Thị tuyến (tầm mắt)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "杀鸡儆猴",
+      "vietnamese": "Giết gà dọa khỉ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "杀一人则万人惧",
+      "vietnamese": "Giết một người vạn người sợ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "马首是瞻",
+      "vietnamese": "Mã thủ thị chiêm (tuân mệnh răm rắp)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "寒人心",
+      "vietnamese": "Hàn tâm (lòng lạnh lẽo/thất vọng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "管中窥豹",
+      "vietnamese": "Quản trung khuy báo (nhìn lá biết mùa thu/nhìn một đốm biết cả thể)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "黄巾之乱",
+      "vietnamese": "Khởi nghĩa Khăn Vàng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "太平天国运动",
+      "vietnamese": "Phong trào Thái Bình Thiên Quốc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "狂信徒",
+      "vietnamese": "Cuồng tín đồ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "坐壁上观",
+      "vietnamese": "Tọa bích thượng quan (đứng ngoài quan sát)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "一炷香",
+      "vietnamese": "Một tuần hương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "见怪不怪",
+      "vietnamese": "Kiến quái bất quái (chuyện thường tình)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "官差服",
+      "vietnamese": "Quan sai phục (y phục quan sai)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "雄心壮志",
+      "vietnamese": "Hùng tâm tráng chí",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "嫡子",
+      "vietnamese": "Đích tử (con trai chính thất)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "肉食",
+      "vietnamese": "Nhục thực (ăn thịt)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
