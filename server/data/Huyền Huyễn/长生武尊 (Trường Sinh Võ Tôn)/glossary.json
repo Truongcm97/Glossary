@@ -114,6 +114,31 @@
       "chinese": "虎形拳",
       "vietnamese": "Hổ hình quyền",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "- [novel]",
+      "vietnamese": "Cho các tên riêng nhân vật, địa danh, tên môn phái, công pháp đặc thù riêng biệt chỉ có trong truyện này.",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "- [genre]",
+      "vietnamese": "Cho các thuật ngữ tu luyện, cảnh giới, tên đan dược phổ biến cho cả thể loại truyện này.",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "- [global]",
+      "vietnamese": "Cho các thành ngữ, tục ngữ, từ vựng chung, câu văn đối thoại thường gặp, câu đùa dùng được cho mọi truyện.",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "曹斌",
+      "vietnamese": "Tào Bân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "小豆包",
+      "vietnamese": "Tiểu Đậu Bao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }

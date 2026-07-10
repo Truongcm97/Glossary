@@ -312,8 +312,8 @@
     },
     {
       "chinese": "制式长刀",
-      "vietnamese": "Đao chế thức (đao quân dụng tiêu chuẩn)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Đao quân dụng tiêu chuẩn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đao chế thức (đao quân dụng tiêu chuẩn))"
     },
     {
       "chinese": "明察暗斗",
@@ -539,6 +539,21 @@
       "chinese": "锦盒",
       "vietnamese": "Gấm hộp",
       "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Gấm hộp (hộp đựng đồ quý))"
+    },
+    {
+      "chinese": "步快服",
+      "vietnamese": "Bộ khoái phục (y phục bộ khoái)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "牙门",
+      "vietnamese": "Nha môn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "步快",
+      "vietnamese": "Bộ khoái",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }

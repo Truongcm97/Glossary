@@ -212,8 +212,8 @@
     },
     {
       "chinese": "劲装",
-      "vietnamese": "Kình trang (bộ đồ gọn gàng để vận động)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Kình trang",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Kình trang (bộ đồ gọn gàng để vận động))"
     },
     {
       "chinese": "师姐",
@@ -298,6 +298,26 @@
     {
       "chinese": "本源",
       "vietnamese": "Bản nguyên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "考耗",
+      "vietnamese": "Khảo hạch",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "圆满",
+      "vietnamese": "Viên mãn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "入劲",
+      "vietnamese": "Nhập môn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "汤药",
+      "vietnamese": "Thang dược",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
