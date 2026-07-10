@@ -267,8 +267,8 @@
     },
     {
       "chinese": "虎虎生风",
-      "vietnamese": "Hổ hổ sinh phong (khí thế mạnh mẽ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hổ hổ sinh phong (miêu tả khí thế mạnh mẽ))"
+      "vietnamese": "Khí thế mạnh mẽ, oai phong",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hổ hổ sinh phong (khí thế mạnh mẽ))"
     },
     {
       "chinese": "泫然欲泣",
@@ -387,13 +387,13 @@
     },
     {
       "chinese": "择人而噬",
-      "vietnamese": "Trạch nhân nhi phệ (chực chờ ăn thịt người)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Chực chờ ăn thịt người/Hung dữ như muốn ăn tươi nuốt sống",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Trạch nhân nhi phệ (chực chờ ăn thịt người))"
     },
     {
       "chinese": "视线",
-      "vietnamese": "Thị tuyến (tầm mắt)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Tầm mắt",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thị tuyến (tầm mắt))"
     },
     {
       "chinese": "杀鸡儆猴",
