@@ -3207,8 +3207,8 @@
     },
     {
       "chinese": "草木精华",
-      "vietnamese": "Tinh hoa thảo mộc",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Thảo mộc tinh hoa",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tinh hoa thảo mộc)"
     },
     {
       "chinese": "刀入神",
@@ -4728,6 +4728,21 @@
     {
       "chinese": "杂书",
       "vietnamese": "Tạp thư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "武举",
+      "vietnamese": "Võ cử",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "醍醐灌顶",
+      "vietnamese": "Quán đỉnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "秘传",
+      "vietnamese": "Bí truyền",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
