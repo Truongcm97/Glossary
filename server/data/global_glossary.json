@@ -7171,6 +7171,66 @@
       "chinese": "如草芥",
       "vietnamese": "Như cỏ rác",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "叫卖声",
+      "vietnamese": "Tiếng rao bán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "人车热闹",
+      "vietnamese": "Người xe nhộn nhịp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "那是一个神人共存的世界",
+      "vietnamese": "Đó là thế giới nơi thần nhân cùng tồn tại",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "看似荒诞",
+      "vietnamese": "Có vẻ hoang đường",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "终于快达到满值了",
+      "vietnamese": "Cuối cùng cũng sắp đạt đến giá trị tối đa",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "小美人的坯子",
+      "vietnamese": "Mỹ nhân phôi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不置可否",
+      "vietnamese": "Tùy ý / không ý kiến",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không đặt câu hỏi / tùy ý)"
+    },
+    {
+      "chinese": "不咸不淡",
+      "vietnamese": "Không mặn không nhạt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不菲",
+      "vietnamese": "Không ít / đắt đỏ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "不事生产",
+      "vietnamese": "Không chịu làm lụng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "必然",
+      "vietnamese": "Chắc chắn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "绝不吝啬",
+      "vietnamese": "Không do dự / không keo kiệt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }

@@ -4787,8 +4787,8 @@
     },
     {
       "chinese": "Mythic Era",
-      "vietnamese": "Kỷ Nguyên Thần Thoại",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Biên niên sử thần thoại)"
+      "vietnamese": "Kỷ nguyên thần thoại",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Kỷ Nguyên Thần Thoại)"
     },
     {
       "chinese": "进入主厅，江宁就看到大嫂柳婉婉早已落座。",
@@ -4804,6 +4804,11 @@
       "chinese": "”中年男子点点头。",
       "vietnamese": "Sau đó, anh cầm cuốn sách, không nhìn kỹ mà đặt sang một bên, rồi xoa đầu nhỏ của Giang Diên Diên.",
       "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "小豆包",
+      "vietnamese": "Tiểu Đậu Bao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }
