@@ -87,8 +87,8 @@
     },
     {
       "chinese": "过目不忘",
-      "vietnamese": "Quá mục bất vong",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quá mục bất vong (nhìn qua là nhớ))"
+      "vietnamese": "Qua mắt không quên",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quá mục bất vong)"
     },
     {
       "chinese": "朝为田舍郎，暮登天子堂",
@@ -469,6 +469,76 @@
       "chinese": "肉食",
       "vietnamese": "Nhục thực (ăn thịt)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "赤膊",
+      "vietnamese": "Cởi trần",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "马尾辫",
+      "vietnamese": "Tóc đuôi ngựa",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "英气",
+      "vietnamese": "Anh khí",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "天鹅颈",
+      "vietnamese": "Cổ thiên nga",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "师父",
+      "vietnamese": "Sư phụ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "宠辱不惊",
+      "vietnamese": "Sủng nhục bất kinh (vinh nhục không kinh động, tâm tĩnh lặng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "传道解惑",
+      "vietnamese": "Truyền đạo giải hoặc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "静谧",
+      "vietnamese": "Tĩnh mịch",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "恬然",
+      "vietnamese": "Điềm nhiên (thản nhiên, bình thản)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "祥和",
+      "vietnamese": "Tường hòa (hài hòa, ôn hòa)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "识文断字",
+      "vietnamese": "Thức văn đoạn tự (biết chữ, đọc hiểu văn tự)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "立地生根",
+      "vietnamese": "Lập địa sinh căn (vững chãi như rễ bám sâu vào đất)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "百兽之王",
+      "vietnamese": "Bách thú chi vương (chúa tể muôn loài)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "锦盒",
+      "vietnamese": "Gấm hộp",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Gấm hộp (hộp đựng đồ quý))"
     }
   ]
 }

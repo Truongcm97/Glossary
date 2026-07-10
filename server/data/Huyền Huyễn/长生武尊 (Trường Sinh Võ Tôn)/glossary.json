@@ -17,8 +17,8 @@
     },
     {
       "chinese": "洛水县",
-      "vietnamese": "Lạc Thủy Huyện",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Huyện Lạc Thủy",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lạc Thủy Huyện)"
     },
     {
       "chinese": "大夏",
@@ -33,11 +33,6 @@
     {
       "chinese": "豆包",
       "vietnamese": "Đậu Bao",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "- [novel]",
-      "vietnamese": "Cho các tên riêng nhân vật, địa danh, tên môn phái, công pháp đặc thù riêng biệt chỉ có trong truyện này.",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     },
     {
@@ -103,6 +98,31 @@
     {
       "chinese": "徐云峰",
       "vietnamese": "Từ Vân Phong",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "李情",
+      "vietnamese": "Lý Tình",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "苍浪武馆",
+      "vietnamese": "Thương Lãng võ quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "五禽拳",
+      "vietnamese": "Ngũ Cầm Quyền",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "朱兴",
+      "vietnamese": "Chu Hưng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "虎形拳",
+      "vietnamese": "Hổ hình quyền",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
