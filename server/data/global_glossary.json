@@ -67,8 +67,8 @@
     },
     {
       "chinese": "自吹自擂",
-      "vietnamese": "Tự tâng bốc",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Tự khoe khoang",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tự tâng bốc)"
     },
     {
       "chinese": "恍然大悟",
@@ -82,13 +82,13 @@
     },
     {
       "chinese": "古井无波",
-      "vietnamese": "Cổ tĩnh vô ba (lòng tĩnh lặng không gợn sóng)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Cổ tĩnh vô ba",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cổ tĩnh vô ba (lòng tĩnh lặng không gợn sóng))"
     },
     {
       "chinese": "过目不忘",
-      "vietnamese": "Quá mục bất vong (nhìn qua là nhớ)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Quá mục bất vong",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quá mục bất vong (nhìn qua là nhớ))"
     },
     {
       "chinese": "朝为田舍郎，暮登天子堂",
@@ -97,8 +97,8 @@
     },
     {
       "chinese": "人上人",
-      "vietnamese": "Nhân thượng nhân (người trên người)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Người trên người (người bề trên)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhân thượng nhân (người trên người))"
     },
     {
       "chinese": "开疆裂土",
@@ -143,6 +143,136 @@
     {
       "chinese": "落座",
       "vietnamese": "Ngồi xuống",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "粉雕玉琢",
+      "vietnamese": "Phấn điêu ngọc trác (miêu tả trẻ con xinh xắn như búp bê)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "左通八达",
+      "vietnamese": "Tứ thông bát đạt (đường sá giao thông thuận tiện)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "栩栩如生",
+      "vietnamese": "Hủ hủ như sinh (sống động như thật)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "手到擒来",
+      "vietnamese": "Thủ đáo cầm lai (dễ như trở bàn tay)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "全神贯注",
+      "vietnamese": "Toàn thần quán chú (tập trung cao độ)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "大家闺秀",
+      "vietnamese": "Đại gia khuê tú",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "游手好闲",
+      "vietnamese": "Du thủ du thực (ăn không ngồi rồi)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "暗潮涌动",
+      "vietnamese": "Ám triều dũng động (sóng ngầm cuộn trào)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "卷入",
+      "vietnamese": "Cuốn vào",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "身不由己",
+      "vietnamese": "Thân bất do kỷ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "大家风范",
+      "vietnamese": "Đại gia phong phạm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "齐整",
+      "vietnamese": "Chỉn chu/gọn gàng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "聚精会神",
+      "vietnamese": "Tụ tinh hội thần",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "蒂落",
+      "vietnamese": "Lấm tấm (giọt nước/mồ hôi)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "喃喃",
+      "vietnamese": "Lẩm bẩm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "空明",
+      "vietnamese": "Không minh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "一飞冲天",
+      "vietnamese": "Một bước lên mây/Thăng tiến nhanh chóng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "博览群书",
+      "vietnamese": "Bác lãm quần thư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "顺手",
+      "vietnamese": "Tiện tay",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "一举两得",
+      "vietnamese": "Một công đôi việc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "名师出高徒",
+      "vietnamese": "Danh sư xuất cao đồ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "长兄如父",
+      "vietnamese": "Trường huynh như phụ (anh cả thay cha)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "三脚猫",
+      "vietnamese": "Ba chân bốn cẳng (thứ võ nghệ/công phu tầm thường)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "箭步",
+      "vietnamese": "Tiễn bộ (bước chân nhanh)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "虎虎生风",
+      "vietnamese": "Hổ hổ sinh phong (miêu tả khí thế mạnh mẽ)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "泫然欲泣",
+      "vietnamese": "Huyễn nhiên dục khấp (chực trào nước mắt)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]

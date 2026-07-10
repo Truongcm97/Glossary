@@ -12,8 +12,8 @@
     },
     {
       "chinese": "破限",
-      "vietnamese": "Phá Hạn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Phá hạn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá hạn (phá vỡ giới hạn))"
     },
     {
       "chinese": "元能",
@@ -27,13 +27,13 @@
     },
     {
       "chinese": "浩然正气",
-      "vietnamese": "Hạo Nhiên Chính Khí",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Hạo nhiên chính khí",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hạo Nhiên Chính Khí)"
     },
     {
       "chinese": "灌顶",
-      "vietnamese": "Quán đỉnh (truyền thụ tinh hoa, năng lượng)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Quán đỉnh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quán đỉnh (truyền thụ tinh hoa, năng lượng))"
     },
     {
       "chinese": "神魂",
@@ -58,6 +58,91 @@
     {
       "chinese": "武道功法",
       "vietnamese": "Võ đạo công pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "识文断字",
+      "vietnamese": "Thức văn đoạn tự",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức văn đoạn tự (biết đọc hiểu văn chương))"
+    },
+    {
+      "chinese": "童生",
+      "vietnamese": "Đồng sinh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "秀才",
+      "vietnamese": "Tú tài",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "儒道",
+      "vietnamese": "Nho đạo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "养神",
+      "vietnamese": "Dưỡng thần",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "经验值",
+      "vietnamese": "Điểm kinh nghiệm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "步快",
+      "vietnamese": "Bộ khoái",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "衙门",
+      "vietnamese": "Nha môn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "温养体魄",
+      "vietnamese": "Ôn dưỡng thể phách",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "造袍",
+      "vietnamese": "Tạo bào (áo dài)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "原能",
+      "vietnamese": "Nguyên năng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "武举",
+      "vietnamese": "Võ cử",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "圣庙",
+      "vietnamese": "Thánh miếu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "名师",
+      "vietnamese": "Danh sư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "制式长刀",
+      "vietnamese": "Trường đao chế thức (đao quân dụng tiêu chuẩn)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "县尊",
+      "vietnamese": "Huyện tôn (cách gọi tôn trọng vị quan huyện)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "抚恤金",
+      "vietnamese": "Tiền trợ cấp/tiền tuất (tiền bồi thường khi gặp nạn/bị thương)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
