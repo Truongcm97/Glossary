@@ -7271,6 +7271,11 @@
       "chinese": "壮大",
       "vietnamese": "Tráng đại",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "Thanh minh",
+      "vietnamese": "Thanh minh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }
