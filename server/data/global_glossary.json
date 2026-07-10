@@ -7274,8 +7274,8 @@
     },
     {
       "chinese": "Thanh minh",
-      "vietnamese": "Thanh minh",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Sáng suốt",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thanh minh)"
     }
   ]
 }
