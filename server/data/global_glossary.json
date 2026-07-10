@@ -39,6 +39,21 @@
     {
       "chinese": "乾坤袋",
       "vietnamese": "Túi Càn Khôn"
+    },
+    {
+      "chinese": "生死一瞬间",
+      "vietnamese": "Sinh tử trong nháy mắt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "你配吗",
+      "vietnamese": "Ngươi cũng xứng sao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "倒吸一口凉气",
+      "vietnamese": "Hít sâu một ngụm khí lạnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }

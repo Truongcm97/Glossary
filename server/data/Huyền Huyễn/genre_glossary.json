@@ -1,3 +1,9 @@
 {
-  "mappings": []
+  "mappings": [
+    {
+      "chinese": "雷劫",
+      "vietnamese": "Lôi Kiếp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    }
+  ]
 }
