@@ -139,7 +139,8 @@
     },
     {
       "chinese": "吃软饭",
-      "vietnamese": "Ăn bám"
+      "vietnamese": "Ăn nhờ ở đậu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ăn bám)"
     },
     {
       "chinese": "单身狗",
@@ -7125,6 +7126,21 @@
       "chinese": "豆包",
       "vietnamese": "Đậu Bao",
       "description": "Hệ thống tự động học từ kết quả đối chiếu Hán Việt Offline"
+    },
+    {
+      "chinese": "手到擒来",
+      "vietnamese": "Dễ như trở bàn tay",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "全神贯注",
+      "vietnamese": "Toàn thần quán chú",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "大家都闺秀",
+      "vietnamese": "Đại gia khuê tú",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     }
   ]
 }
