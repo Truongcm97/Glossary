@@ -1,26 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "聚精会神",
-      "vietnamese": "Tập trung tinh thần",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "悄无声息",
-      "vietnamese": "Trong lặng lẽ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "旭日",
-      "vietnamese": "Mặt trời mới mọc",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "滚烫",
-      "vietnamese": "Bỏng rát",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "无动于衷",
       "vietnamese": "Không mảy may lay động",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
