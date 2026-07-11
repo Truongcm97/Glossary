@@ -7,8 +7,8 @@
     },
     {
       "chinese": "全神贯注",
-      "vietnamese": "Toàn tâm toàn ý/tập trung tinh thần",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: toàn tâm toàn ý)"
+      "vietnamese": "Toàn thần quán chú",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Toàn tâm toàn ý/tập trung tinh thần)"
     },
     {
       "chinese": "识文断字",
@@ -22,13 +22,13 @@
     },
     {
       "chinese": "化腐朽为神奇",
-      "vietnamese": "hóa mục nát thành kỳ diệu",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hóa mục nát thành kỳ diệu)"
+      "vietnamese": "Hóa mục nát thành thần kỳ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: hóa mục nát thành kỳ diệu)"
     },
     {
       "chinese": "一证永证",
-      "vietnamese": "nhất chứng vĩnh chứng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhất chứng vĩnh chứng (Học một lần là nhớ mãi mãi))"
+      "vietnamese": "Một chứng vĩnh chứng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: nhất chứng vĩnh chứng)"
     },
     {
       "chinese": "栩栩如生",
@@ -292,8 +292,8 @@
     },
     {
       "chinese": "捕快",
-      "vietnamese": "Bộ khoái",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Bổ khoái",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bộ khoái)"
     },
     {
       "chinese": "县尊",
@@ -317,8 +317,8 @@
     },
     {
       "chinese": "流民逃窜",
-      "vietnamese": "Lưu dân bỏ chạy",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lưu dân đào tẩu)"
+      "vietnamese": "Lưu dân chạy trốn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lưu dân bỏ chạy)"
     },
     {
       "chinese": "叛乱纷至",
@@ -1052,8 +1052,8 @@
     },
     {
       "chinese": "杂书",
-      "vietnamese": "Tạp thư/sách tạp văn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: tạp thư)"
+      "vietnamese": "Tạp thư",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tạp thư/sách tạp văn)"
     },
     {
       "chinese": "一叶",
@@ -2043,6 +2043,21 @@
     {
       "chinese": "力敌万军",
       "vietnamese": "Sức mạnh một người như một đội quân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "四通八达",
+      "vietnamese": "Tứ thông bát đạt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "吃力",
+      "vietnamese": "Chật vật/Vất vả",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "不置可否",
+      "vietnamese": "Không tỏ rõ thái độ/Không nói rõ ý kiến",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
