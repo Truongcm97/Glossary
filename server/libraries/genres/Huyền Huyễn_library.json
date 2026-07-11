@@ -1,46 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "师弟",
-      "vietnamese": "Sư đệ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "考核",
-      "vietnamese": "Khảo hạch (kỳ thi/đánh giá cuối năm)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khảo hạch)"
-    },
-    {
-      "chinese": "下乘武学",
-      "vietnamese": "Hạ thừa võ học",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "大成",
-      "vietnamese": "Đại thành",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "核心弟子",
-      "vietnamese": "Hạch tâm đệ tử",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "练功",
-      "vietnamese": "Luyện công",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "武者",
-      "vietnamese": "Võ giả",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "功法",
-      "vietnamese": "Công pháp",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "拳谱",
       "vietnamese": "Quyền phổ",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
