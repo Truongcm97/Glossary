@@ -551,11 +551,6 @@
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     },
     {
-      "chinese": "[genre]",
-      "vietnamese": "气机",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 箭道)"
-    },
-    {
       "chinese": "[global]",
       "vietnamese": "沧浪",
       "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 不出世)"
