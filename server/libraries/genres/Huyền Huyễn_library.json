@@ -1,61 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "超凡入圣",
-      "vietnamese": "Siêu phàm nhập thánh",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "武圣",
-      "vietnamese": "Võ thánh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ Thánh)"
-    },
-    {
-      "chinese": "武道功法",
-      "vietnamese": "Võ đạo công pháp",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "识文断字",
-      "vietnamese": "Thông hiểu văn tự",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức văn đoạn tự)"
-    },
-    {
-      "chinese": "童生",
-      "vietnamese": "Đồng sinh",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "秀才",
-      "vietnamese": "Tú tài",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "儒道",
-      "vietnamese": "Nho đạo",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "养神",
-      "vietnamese": "Dưỡng thần",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "经验值",
-      "vietnamese": "Điểm kinh nghiệm",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "步快",
-      "vietnamese": "Bộ khoái",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "衙门",
-      "vietnamese": "Nha môn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "温养体魄",
       "vietnamese": "Ôn dưỡng thể phách",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
