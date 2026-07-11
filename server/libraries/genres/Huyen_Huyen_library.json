@@ -7,8 +7,8 @@
     },
     {
       "chinese": "养神",
-      "vietnamese": "Dưỡng thần",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "dưỡng thần",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Dưỡng thần)"
     },
     {
       "chinese": "童生",
@@ -22,8 +22,8 @@
     },
     {
       "chinese": "捕快",
-      "vietnamese": "Bổ khoái (Bắt đầu/cảnh sát thời xưa)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bộ khoái)"
+      "vietnamese": "bổ khoái",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bổ khoái (Bắt đầu/cảnh sát thời xưa))"
     },
     {
       "chinese": "养伤",
@@ -42,8 +42,8 @@
     },
     {
       "chinese": "温养体魄",
-      "vietnamese": "Ôn dưỡng thể phách",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "ôn dưỡng thể phách",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ôn dưỡng thể phách)"
     },
     {
       "chinese": "补快",
@@ -72,18 +72,18 @@
     },
     {
       "chinese": "一人成军",
-      "vietnamese": "Một người thành quân (Sức mạnh một người như một đội quân)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Một người thành quân)"
+      "vietnamese": "sức mạnh một người như một đội quân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Một người thành quân (Sức mạnh một người như một đội quân))"
     },
     {
       "chinese": "一人敌国",
-      "vietnamese": "Một người địch quốc (Sức mạnh một người địch cả quốc gia)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Một người địch quốc)"
+      "vietnamese": "một mình địch cả quốc gia",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Một người địch quốc (Sức mạnh một người địch cả quốc gia))"
     },
     {
       "chinese": "识文断字",
-      "vietnamese": "Thông hiểu văn tự",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "thông hiểu văn tự",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thông hiểu văn tự)"
     },
     {
       "chinese": "一入成军",
@@ -347,8 +347,8 @@
     },
     {
       "chinese": "圆满",
-      "vietnamese": "Viên Mãn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "viên mãn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Viên Mãn)"
     },
     {
       "chinese": "技艺",
@@ -813,6 +813,11 @@
     {
       "chinese": "王朝",
       "vietnamese": "Vương triều",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "功名",
+      "vietnamese": "công danh",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
