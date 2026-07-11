@@ -247,8 +247,8 @@
     },
     {
       "chinese": "抚恤金",
-      "vietnamese": "Tiền trợ cấp thương tật",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền trợ cấp thương tật / Tiền tuất)"
+      "vietnamese": "Tiền trợ cấp thương tật (tiền tử tuất/hỗ trợ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền trợ cấp thương tật)"
     },
     {
       "chinese": "捕头",
@@ -937,8 +937,8 @@
     },
     {
       "chinese": "阿弟",
-      "vietnamese": "A Đệ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "A đệ / Em trai",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: A Đệ)"
     },
     {
       "chinese": "座上宾",
@@ -3698,6 +3698,61 @@
     {
       "chinese": "大逆不道",
       "vietnamese": "Đại nghịch bất đạo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "青云直上",
+      "vietnamese": "Công danh thăng tiến / Thẳng bước mây xanh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thanh vân trực thượng (thăng tiến nhanh chóng))"
+    },
+    {
+      "chinese": "潜龙",
+      "vietnamese": "Tiềm long (rồng ẩn mình/nhân vật có tiềm năng lớn)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "拜访",
+      "vietnamese": "Bái phỏng / Ghé thăm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "午时",
+      "vietnamese": "Giờ Ngọ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "伤亡抚恤金",
+      "vietnamese": "Tiền tử tuất / Tiền trợ cấp thương vong",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "同僚",
+      "vietnamese": "Đồng liêu / Đồng nghiệp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "鸡腿",
+      "vietnamese": "Đùi gà",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "大鱼大肉",
+      "vietnamese": "Cá thịt ê hề / Cao lương mỹ vị",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "汗颜",
+      "vietnamese": "Hổ thẹn / Xấu hổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "不闻不问",
+      "vietnamese": "Không quan tâm hỏi han / Thờ ơ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "遮风挡雨",
+      "vietnamese": "Che gió chắn mưa / Che chở",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
