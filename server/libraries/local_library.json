@@ -1,21 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "打生打死",
-      "vietnamese": "Bán mạng/liều chết",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "泪眼婆娑",
-      "vietnamese": "Nước mắt lưng tròng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "暴涨",
-      "vietnamese": "Tăng vọt",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "权柄",
       "vietnamese": "Quyền bính",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
