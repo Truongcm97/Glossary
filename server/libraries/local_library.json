@@ -1,21 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "回神",
-      "vietnamese": "Hoàn hồn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "美人胚子",
-      "vietnamese": "Phôi thai mỹ nhân",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "肝满",
-      "vietnamese": "Tích lũy đủ / Gánh vác / Cày (đạt mức)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "嘀咕 / 意见",
       "vietnamese": "Ý kiến / Lời than phiền",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
