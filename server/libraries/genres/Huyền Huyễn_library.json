@@ -1,21 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "记名弟子",
-      "vietnamese": "Ký danh đệ tử",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "劲装",
-      "vietnamese": "Kình trang",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Kình trang (bộ đồ gọn gàng để vận động))"
-    },
-    {
-      "chinese": "师姐",
-      "vietnamese": "Sư tỷ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "师弟",
       "vietnamese": "Sư đệ",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
