@@ -7,7 +7,7 @@
     },
     {
       "chinese": "步快",
-      "vietnamese": "Bộ khoái (lính sai nha)",
+      "vietnamese": "Bộ khoái",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     },
     {
@@ -378,6 +378,11 @@
     {
       "chinese": "阿宁",
       "vietnamese": "A Ninh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "冯头",
+      "vietnamese": "Phùng đầu (tên chức vụ hoặc biệt danh)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

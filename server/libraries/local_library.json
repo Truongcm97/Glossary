@@ -212,8 +212,8 @@
     },
     {
       "chinese": "三脚猫",
-      "vietnamese": "Mèo cào (ám chỉ võ nghệ xoàng xĩnh)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Võ nghệ ba chân bốn cẳng / Xoàng xĩnh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mèo cào (ám chỉ võ nghệ xoàng xĩnh))"
     },
     {
       "chinese": "良师出高徒",
@@ -232,8 +232,8 @@
     },
     {
       "chinese": "死寂",
-      "vietnamese": "Im lặng chết chóc",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Im lặng chết chóc / Tử tịch",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Im lặng chết chóc)"
     },
     {
       "chinese": "午时三刻",
@@ -247,8 +247,8 @@
     },
     {
       "chinese": "抚恤金",
-      "vietnamese": "Tiền tử tuất",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền tử tuất / tiền trợ cấp thương tật)"
+      "vietnamese": "Tiền trợ cấp thương tật / Tiền tuất",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền tử tuất)"
     },
     {
       "chinese": "捕头",
@@ -302,13 +302,13 @@
     },
     {
       "chinese": "泫然欲泣",
-      "vietnamese": "Chực khóc",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chực khóc / rưng rưng muốn khóc)"
+      "vietnamese": "Chực khóc / Rưng rưng nước mắt",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chực khóc)"
     },
     {
       "chinese": "回天乏术",
-      "vietnamese": "Hồi thiên phạt thuật",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hết cách cứu vãn (Hồi thiên phạt thuật))"
+      "vietnamese": "Hồi thiên phạt thuật (không thể cứu vãn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hồi thiên phạt thuật)"
     },
     {
       "chinese": "天灾四起",
@@ -353,6 +353,16 @@
     {
       "chinese": "婆娘",
       "vietnamese": "Vợ / Bà xã",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "穷文富武",
+      "vietnamese": "Kẻ nghèo học văn, kẻ giàu tập võ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "名师出高徒",
+      "vietnamese": "Thầy giỏi mới có trò hay",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
