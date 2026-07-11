@@ -444,6 +444,11 @@
       "chinese": "良师",
       "vietnamese": "Lương sư (Người thầy tốt)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "果果",
+      "vietnamese": "Quả quả (tên riêng/cách gọi đồ vật)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }
