@@ -1,31 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "考耗",
-      "vietnamese": "Khảo hạch",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "圆满",
-      "vietnamese": "Viên mãn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "入劲",
-      "vietnamese": "Nhập môn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "汤药",
-      "vietnamese": "Thang dược",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "快捕",
-      "vietnamese": "Bắt khoái (chức danh bộ khoái)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "百快",
       "vietnamese": "Bắt khoái (Bộ khoái)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
