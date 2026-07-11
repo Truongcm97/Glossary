@@ -1,16 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "啜道",
-      "vietnamese": "Cằn nhằn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "恍然大悟",
-      "vietnamese": "Bừng tỉnh đại ngộ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "古井无波",
       "vietnamese": "Tâm cảnh tĩnh lặng (như giếng cổ không gợn sóng)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
