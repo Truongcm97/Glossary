@@ -1,26 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "暗暗感慨",
-      "vietnamese": "Thầm cảm thán",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "双目不由一凝",
-      "vietnamese": "Hai mắt không khỏi nheo lại",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "水到渠成",
-      "vietnamese": "Nước chảy thành sông (thành ngữ)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "动静",
-      "vietnamese": "Dấu hiệu, tiếng động",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "意念微动",
       "vietnamese": "Ý niệm khẽ động",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
