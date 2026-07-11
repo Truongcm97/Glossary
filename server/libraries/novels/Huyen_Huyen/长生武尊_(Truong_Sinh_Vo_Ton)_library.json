@@ -181,11 +181,6 @@
       "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sáng sớm.)"
     },
     {
-      "chinese": "洛水县。",
-      "vietnamese": "Sự yên tĩnh vốn có của huyện Lạc Thủy sớm đã tan biến, thay vào đó là cảnh tượng náo nhiệt, ồn ào với tiếng rao hàng vang vọng khắp các con phố lớn nhỏ.",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lạc Thủy Huyện.)"
-    },
-    {
       "chinese": "清晨。",
       "vietnamese": "Phía đông huyện Lạc Thủy, trong một tiểu viện được bao quanh bởi hàng rào tre.",
       "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sáng sớm.)"
@@ -257,8 +252,8 @@
     },
     {
       "chinese": "“原来如此！",
-      "vietnamese": "“Thì ra là thế!",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "“Thì ra là vậy!",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: “Thì ra là thế!)"
     },
     {
       "chinese": "坐豆包身边。",
@@ -323,6 +318,26 @@
     {
       "chinese": "“终于满了！",
       "vietnamese": "“Cuối cùng cũng đầy rồi!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“坐！",
+      "vietnamese": "“Ngồi đi!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“有点想法！",
+      "vietnamese": "“Đệ cũng có chút ý định!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“学武？",
+      "vietnamese": "“Học võ?",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“想！",
+      "vietnamese": "“Đúng ạ!",
       "description": "Tự học tự động từ Gemini polish (novel)"
     }
   ]
