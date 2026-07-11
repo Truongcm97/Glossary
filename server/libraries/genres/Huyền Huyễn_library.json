@@ -1,26 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "入品强者",
-      "vietnamese": "Nhập Phẩm cường giả",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "练皮",
-      "vietnamese": "Luyện Bì (Cảnh giới cơ bản của võ đạo)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Luyện Bì)"
-    },
-    {
-      "chinese": "练功服",
-      "vietnamese": "Võ phục (luyện công phục)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "秘籍",
-      "vietnamese": "Bí tịch",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "记名弟子",
       "vietnamese": "Ký danh đệ tử",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
