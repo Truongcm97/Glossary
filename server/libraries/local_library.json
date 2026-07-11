@@ -1,26 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "意念微动",
-      "vietnamese": "Ý niệm khẽ động",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "美人坯子",
-      "vietnamese": "Mỹ nhân phôi thai (phôi thép xinh đẹp)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "大家闺秀",
-      "vietnamese": "Đại gia khuê tú",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "仙神之说",
-      "vietnamese": "Chuyện về tiên thần",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "聚精会神",
       "vietnamese": "Tập trung tinh thần",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
