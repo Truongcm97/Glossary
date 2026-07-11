@@ -42,13 +42,13 @@
     },
     {
       "chinese": "粉雕玉琢",
-      "vietnamese": "Phấn điêu ngọc trác (xinh xắn như búp bê)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phấn điêu ngọc trác)"
+      "vietnamese": "Xinh xắn như búp bê/Đẹp như tạc ngọc",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phấn điêu ngọc trác (xinh xắn như búp bê))"
     },
     {
       "chinese": "朝天辫",
-      "vietnamese": "Tóc chỏm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm (Kiểu tóc búi dựng lên của trẻ nhỏ))"
+      "vietnamese": "Tóc chỏm/Tóc thắt hai bên",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm)"
     },
     {
       "chinese": "肉嘟嘟",
@@ -67,8 +67,8 @@
     },
     {
       "chinese": "不咸不淡",
-      "vietnamese": "Không mặn không nhạt",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không mặn không nhạt (Thái độ thờ ơ))"
+      "vietnamese": "Hờ hững/Không mặn không nhạt",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không mặn không nhạt)"
     },
     {
       "chinese": "游手好闲",
@@ -87,8 +87,8 @@
     },
     {
       "chinese": "大厦将倾",
-      "vietnamese": "Đại hạ tương khuynh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại hạ tương khuynh (Cơ nghiệp sắp sụp đổ))"
+      "vietnamese": "Đại hạ tương khuynh (Tòa nhà sắp đổ, ẩn dụ vương triều sắp sụp đổ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại hạ tương khuynh)"
     },
     {
       "chinese": "一人成军",
@@ -107,8 +107,8 @@
     },
     {
       "chinese": "大家风范",
-      "vietnamese": "Phong thái đại gia (Cử chỉ khí chất cao quý)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phong thái đại gia)"
+      "vietnamese": "Phong thái đại gia",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phong thái đại gia (Cử chỉ khí chất cao quý))"
     },
     {
       "chinese": "泰国之中谜",
@@ -152,8 +152,8 @@
     },
     {
       "chinese": "柴米油盐",
-      "vietnamese": "Cơm áo gạo tiền (Ý chỉ gánh nặng cuộc sống)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cơm áo gạo tiền)"
+      "vietnamese": "Cơm áo gạo tiền",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cơm áo gạo tiền (Ý chỉ gánh nặng cuộc sống))"
     },
     {
       "chinese": "皂袍",
@@ -167,8 +167,8 @@
     },
     {
       "chinese": "古井无波",
-      "vietnamese": "Cổ tĩnh vô ba",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cổ tĩnh vô ba (tâm cảnh tĩnh lặng))"
+      "vietnamese": "Cổ tĩnh vô ba (tĩnh lặng như nước)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cổ tĩnh vô ba)"
     },
     {
       "chinese": "过目不忘",
@@ -192,8 +192,8 @@
     },
     {
       "chinese": "良师",
-      "vietnamese": "Lương sư",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lương sư (Người thầy giỏi))"
+      "vietnamese": "Lương Sư",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lương sư)"
     },
     {
       "chinese": "变故",
@@ -342,8 +342,8 @@
     },
     {
       "chinese": "博览群书",
-      "vietnamese": "Đọc rộng hiểu sâu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Đọc rộng hiểu sâu (tương đương với việc đọc nhiều sách)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đọc rộng hiểu sâu)"
     },
     {
       "chinese": "滚滚大势",
@@ -502,8 +502,8 @@
     },
     {
       "chinese": "空明",
-      "vietnamese": "Không minh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không minh (trạng thái tâm trí sáng suốt, trống rỗng))"
+      "vietnamese": "Không minh (trí tuệ sáng suốt, tâm hồn trong sáng)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không minh)"
     },
     {
       "chinese": "科举",
@@ -1898,6 +1898,26 @@
     {
       "chinese": "年少慕艾",
       "vietnamese": "Thanh xuân yêu đương / Tuổi trẻ biết yêu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "食古不化",
+      "vietnamese": "Cổ hủ/Không chịu thay đổi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "水到渠成",
+      "vietnamese": "Nước chảy thành sông",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "清晨",
+      "vietnamese": "Sáng sớm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "景象",
+      "vietnamese": "Cảnh tượng",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
