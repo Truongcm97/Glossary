@@ -1,26 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "轻手轻脚",
-      "vietnamese": "Nhẹ chân nhẹ tay",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "世道",
-      "vietnamese": "Thời thế",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "宽慰",
-      "vietnamese": "An ủi",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "跑的比谁都快",
-      "vietnamese": "Chạy nhanh hơn ai hết",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "啜道",
       "vietnamese": "Cằn nhằn",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
