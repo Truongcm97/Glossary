@@ -152,8 +152,8 @@
     },
     {
       "chinese": "武道入品",
-      "vietnamese": "Nhập phẩm võ đạo",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhập phẩm võ đạo (đạt đến đẳng cấp võ giả))"
+      "vietnamese": "Võ đạo nhập phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhập phẩm võ đạo)"
     },
     {
       "chinese": "真传弟子",
@@ -317,8 +317,8 @@
     },
     {
       "chinese": "劈柴刀法",
-      "vietnamese": "Phách Sài đao pháp",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài Đao Pháp)"
+      "vietnamese": "Phách Sài Đao Pháp",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài đao pháp)"
     },
     {
       "chinese": "精通",
@@ -402,8 +402,8 @@
     },
     {
       "chinese": "劲力",
-      "vietnamese": "kình lực",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Kình lực)"
+      "vietnamese": "Kình lực",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: kình lực)"
     },
     {
       "chinese": "面盘",
@@ -572,8 +572,8 @@
     },
     {
       "chinese": "气血圆满",
-      "vietnamese": "Khí Huyết viên mãn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khí huyết viên mãn)"
+      "vietnamese": "Khí huyết viên mãn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khí Huyết viên mãn)"
     },
     {
       "chinese": "入品武道",
@@ -597,8 +597,8 @@
     },
     {
       "chinese": "贯通周身",
-      "vietnamese": "Quán thông chu thân",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đả thông chu thân (toàn thân))"
+      "vietnamese": "Quán thông toàn thân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quán thông chu thân)"
     },
     {
       "chinese": "贯通四肢",
@@ -1127,8 +1127,8 @@
     },
     {
       "chinese": "武道九品",
-      "vietnamese": "Cửu phẩm võ đạo",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo Cửu phẩm)"
+      "vietnamese": "Võ đạo cửu phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cửu phẩm võ đạo)"
     },
     {
       "chinese": "朝阳",
@@ -1657,8 +1657,8 @@
     },
     {
       "chinese": "沧浪刀法",
-      "vietnamese": "Thương Lãng đao pháp",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thương Lãng Đao Pháp)"
+      "vietnamese": "Thương Lãng Đao Pháp",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thương Lãng đao pháp)"
     },
     {
       "chinese": "筋骨血肉",
@@ -1712,8 +1712,8 @@
     },
     {
       "chinese": "武道八品",
-      "vietnamese": "Bát phẩm võ đạo",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo bát phẩm)"
+      "vietnamese": "Võ đạo bát phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bát phẩm võ đạo)"
     },
     {
       "chinese": "武道秘籍",
@@ -2043,6 +2043,26 @@
     {
       "chinese": "惊天雷",
       "vietnamese": "Kinh Thiên Lôi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "通缉令",
+      "vietnamese": "Lệnh truy nã",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "造诣",
+      "vietnamese": "Tạo nghệ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一重劲力",
+      "vietnamese": "Kình lực nhất trọng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "二重劲力",
+      "vietnamese": "Kình lực nhị trọng",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

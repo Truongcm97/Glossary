@@ -4589,6 +4589,21 @@
       "chinese": "仵作",
       "vietnamese": "ngỗ tác (người khám nghiệm tử thi)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "士别三日当刮目相待",
+      "vietnamese": "Sĩ biệt tam nhật, đương quát mục tương đãi",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "蟊贼",
+      "vietnamese": "Mâu tặc (tên trộm vặt)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Trộm vặt)"
+    },
+    {
+      "chinese": "金叶子",
+      "vietnamese": "Lá vàng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
