@@ -222,8 +222,8 @@
     },
     {
       "chinese": "长兄如父",
-      "vietnamese": "Anh cả như cha",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Trưởng huynh như phụ (anh cả như cha)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Anh cả như cha)"
     },
     {
       "chinese": "仁至义尽",
@@ -247,8 +247,8 @@
     },
     {
       "chinese": "抚恤金",
-      "vietnamese": "Tiền trợ cấp (tiền tử tuất/thương tật)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Tiền tử tuất / tiền trợ cấp thương tật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền trợ cấp (tiền tử tuất/thương tật))"
     },
     {
       "chinese": "捕头",
@@ -332,13 +332,13 @@
     },
     {
       "chinese": "泫然欲泣",
-      "vietnamese": "Chực khóc",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Chực khóc / rưng rưng muốn khóc",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chực khóc)"
     },
     {
       "chinese": "回天乏术",
-      "vietnamese": "Hết cách cứu vãn (Hồi thiên phạt thuật)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Hồi thiên phạt thuật (không thể cứu vãn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hết cách cứu vãn (Hồi thiên phạt thuật))"
     },
     {
       "chinese": "“大哥！",
