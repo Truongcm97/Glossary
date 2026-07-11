@@ -72,8 +72,8 @@
     },
     {
       "chinese": "沧浪武馆",
-      "vietnamese": "Võ quán Thương Lãng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thương Lãng Võ Quán)"
+      "vietnamese": "Thương Lãng Võ quán",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ quán Thương Lãng)"
     },
     {
       "chinese": "曹彬",
@@ -222,8 +222,8 @@
     },
     {
       "chinese": "江一鸣",
-      "vietnamese": "Giang Nhất Minh (Tên nhân vật)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Nhất Minh)"
+      "vietnamese": "Giang Nhất Minh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Nhất Minh (Tên nhân vật))"
     },
     {
       "chinese": "阿宁",
@@ -262,8 +262,8 @@
     },
     {
       "chinese": "王都头",
-      "vietnamese": "Vương Đô Đầu",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương Đô đầu)"
+      "vietnamese": "Vương Đô đầu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương Đô Đầu)"
     },
     {
       "chinese": "王馆主",
@@ -302,8 +302,8 @@
     },
     {
       "chinese": "劈柴刀法",
-      "vietnamese": "Phách Sài Đao Pháp",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài Đao Pháp (Đao pháp bổ củi))"
+      "vietnamese": "Phách Sài Đao Pháp (Đao pháp bổ củi)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài Đao Pháp)"
     },
     {
       "chinese": "孙大娘",
@@ -552,18 +552,18 @@
     },
     {
       "chinese": "[novel]",
-      "vietnamese": "Nội Đan Dưỡng Sinh Công",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tuần Sát Phủ)"
+      "vietnamese": "洛水县",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 大夏九州三十六府)"
     },
     {
       "chinese": "[genre]",
-      "vietnamese": "杀敌技",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 功法)"
+      "vietnamese": "气机",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 箭道)"
     },
     {
       "chinese": "[global]",
-      "vietnamese": "对练",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 搞不好)"
+      "vietnamese": "沧浪",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 不出世)"
     },
     {
       "chinese": "面板",
@@ -662,8 +662,8 @@
     },
     {
       "chinese": "九重劲",
-      "vietnamese": "Cửu Trọng Kình",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Cửu Trọng Kình (Tên công pháp/kỹ năng)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cửu Trọng Kình)"
     },
     {
       "chinese": "五禽劲",
@@ -697,8 +697,8 @@
     },
     {
       "chinese": "东陵郡",
-      "vietnamese": "Đông Lăng quận",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Đông陵 quận",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông Lăng quận)"
     },
     {
       "chinese": "[6] 武秀才",
@@ -739,6 +739,41 @@
       "chinese": "三大家族",
       "vietnamese": "Ba đại gia tộc",
       "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "六七十年代",
+      "vietnamese": "Lục Thất Thập Niên Đại (tên người dùng)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "第73章",
+      "vietnamese": "Chương 73",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "程师兄",
+      "vietnamese": "Trình sư huynh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一鸣",
+      "vietnamese": "Nhất Minh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "九州三十六府",
+      "vietnamese": "Cửu Châu ba mươi sáu phủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "周氏药铺",
+      "vietnamese": "Chu thị dược phố (Tiệm thuốc họ Chu)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黑风军",
+      "vietnamese": "Hắc Phong Quân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }
