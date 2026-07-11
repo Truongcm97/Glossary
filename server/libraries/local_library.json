@@ -7,8 +7,8 @@
     },
     {
       "chinese": "全神贯注",
-      "vietnamese": "Toàn thần quán chú (tập trung tinh thần)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Toàn thần quán chú (tập trung cao độ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Toàn thần quán chú (tập trung tinh thần))"
     },
     {
       "chinese": "识文断字",
@@ -22,8 +22,8 @@
     },
     {
       "chinese": "化腐朽为神奇",
-      "vietnamese": "Hóa hủ mục vi thần kỳ (biến điều bình thường thành kỳ diệu)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Hóa hủ mục vi thần kỳ (biến vật bình thường thành kỳ diệu)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hóa hủ mục vi thần kỳ (biến điều bình thường thành kỳ diệu))"
     },
     {
       "chinese": "一证永证",
@@ -37,8 +37,8 @@
     },
     {
       "chinese": "手到擒来",
-      "vietnamese": "Thủ đến cầm lai (dễ như trở bàn tay)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Dễ như trở bàn tay",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thủ đến cầm lai (dễ như trở bàn tay))"
     },
     {
       "chinese": "粉雕玉琢",
@@ -47,8 +47,8 @@
     },
     {
       "chinese": "朝天辫",
-      "vietnamese": "Tóc chỏm (朝天辫)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Tóc chỏm (bím tóc trên đỉnh đầu)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm (朝天辫))"
     },
     {
       "chinese": "肉嘟嘟",
@@ -57,13 +57,13 @@
     },
     {
       "chinese": "美人坯子",
-      "vietnamese": "Mỹ nhân phôi (tố chất mỹ nhân)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Tố chất mỹ nhân (phôi thai mỹ nhân)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mỹ nhân phôi (tố chất mỹ nhân))"
     },
     {
       "chinese": "大家闺秀",
-      "vietnamese": "Đại gia khuê tú",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Đại gia khuê tú (tiểu thư con nhà danh giá)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại gia khuê tú)"
     },
     {
       "chinese": "不咸不淡",
@@ -123,6 +123,16 @@
     {
       "chinese": "快中午了啊",
       "vietnamese": "Sắp trưa rồi à",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "人情",
+      "vietnamese": "Chuyện thường tình của con người",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "养伤",
+      "vietnamese": "Dưỡng thương",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
