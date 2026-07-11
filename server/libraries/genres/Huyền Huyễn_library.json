@@ -1,21 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "武馆",
-      "vietnamese": "Võ quán",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "大补之药",
-      "vietnamese": "Đại bổ chi dược (thuốc đại bổ)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "本源",
-      "vietnamese": "Bản nguyên",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "考耗",
       "vietnamese": "Khảo hạch",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
