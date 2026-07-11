@@ -141,11 +141,6 @@
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
     },
     {
-      "chinese": "Giang Ninh",
-      "vietnamese": "Giang Ninh",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "A Ninh",
       "vietnamese": "Giang Ninh (tên gọi thân mật)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
@@ -197,18 +192,18 @@
     },
     {
       "chinese": "“你懂什么？",
-      "vietnamese": "\"Đệ thì biết cái gì?",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "“Đệ thì biết cái gì?",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: \"Đệ thì biết cái gì?)"
     },
     {
       "chinese": "“算了！",
-      "vietnamese": "\"Thôi vậy!",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "“Thôi vậy!",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: \"Thôi vậy!)"
     },
     {
       "chinese": "“那鸣儿呢？",
-      "vietnamese": "\"Vậy còn Minh nhi thì sao?",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "“Vậy còn Nhất Minh thì sao?",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: \"Vậy còn Minh nhi thì sao?)"
     },
     {
       "chinese": "江鸢鸢",
@@ -242,8 +237,8 @@
     },
     {
       "chinese": "县尊",
-      "vietnamese": "Huyện Tôn (cách gọi tôn kính vị quan huyện)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Huyện tôn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện Tôn (cách gọi tôn kính vị quan huyện))"
     },
     {
       "chinese": "捕快",
@@ -313,6 +308,86 @@
     {
       "chinese": "“想！",
       "vietnamese": "“Đúng ạ!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "第4章 变故",
+      "vietnamese": "第4章 Biến cố",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "突然间。",
+      "vietnamese": "Đột nhiên.",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“黎哥——”",
+      "vietnamese": "“Lê Ca——”",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "下一刻。",
+      "vietnamese": "Mỗi lần đột phá, hắn đều cảm thấy tâm trí càng thêm minh mẫn, suy nghĩ thông suốt, tai thính mắt tinh.",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "”江宁开口。",
+      "vietnamese": "” Giang Ninh lên tiếng.",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“走！",
+      "vietnamese": "“Đi đây!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“大嫂！",
+      "vietnamese": "“Chị dâu!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "月明星稀。",
+      "vietnamese": "Mặt trăng treo cao, ánh sao thưa thớt.",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "汪汪汪——",
+      "vietnamese": "Gâu gâu gâu——",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“黎哥！",
+      "vietnamese": "“Lê Ca!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "出事了！",
+      "vietnamese": "Xảy ra chuyện rồi!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "真出事了？",
+      "vietnamese": "Thật sự xảy ra chuyện rồi?",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "“废了？",
+      "vietnamese": "“Phế rồi?",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "就在这时。",
+      "vietnamese": "Đúng lúc đó.",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "”江黎开口。",
+      "vietnamese": "” Giang Lê lên tiếng.",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "江宁点点头。",
+      "vietnamese": "Giang Ninh gật đầu.",
       "description": "Tự học tự động từ Gemini polish (novel)"
     }
   ]

@@ -222,8 +222,8 @@
     },
     {
       "chinese": "长兄如父",
-      "vietnamese": "Trưởng huynh như phụ (anh cả như cha)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Anh cả như cha)"
+      "vietnamese": "Trưởng huynh như phụ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Trưởng huynh như phụ (anh cả như cha))"
     },
     {
       "chinese": "仁至义尽",
@@ -237,8 +237,8 @@
     },
     {
       "chinese": "午时三刻",
-      "vietnamese": "Giờ Ngọ ba khắc (giữa trưa)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Giờ Ngọ ba khắc",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giờ Ngọ ba khắc (giữa trưa))"
     },
     {
       "chinese": "因公负伤",
@@ -247,8 +247,8 @@
     },
     {
       "chinese": "抚恤金",
-      "vietnamese": "Tiền tử tuất / tiền trợ cấp thương tật",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền trợ cấp (tiền tử tuất/thương tật))"
+      "vietnamese": "Tiền tử tuất / Trợ cấp thương tật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền tử tuất / tiền trợ cấp thương tật)"
     },
     {
       "chinese": "捕头",
@@ -302,8 +302,8 @@
     },
     {
       "chinese": "泫然欲泣",
-      "vietnamese": "Chực khóc / rưng rưng muốn khóc",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chực khóc)"
+      "vietnamese": "Chực khóc / Rưng rưng muốn khóc",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chực khóc / rưng rưng muốn khóc)"
     },
     {
       "chinese": "回天乏术",
@@ -312,8 +312,8 @@
     },
     {
       "chinese": "“大哥！",
-      "vietnamese": "\"Đại ca!",
-      "description": "Tự học tự động từ Gemini polish (global)"
+      "vietnamese": "“Đại ca!",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: \"Đại ca!)"
     },
     {
       "chinese": "天灾四起",
@@ -368,6 +368,16 @@
     {
       "chinese": "“好！",
       "vietnamese": "“Được!",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "砰——",
+      "vietnamese": "Binh——",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "——",
+      "vietnamese": "——",
       "description": "Tự học tự động từ Gemini polish (global)"
     }
   ]
