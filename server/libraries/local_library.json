@@ -7,8 +7,8 @@
     },
     {
       "chinese": "全神贯注",
-      "vietnamese": "Toàn thần quán chú (tập trung cao độ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Toàn thần quán chú (tập trung tinh thần))"
+      "vietnamese": "Toàn thần quán chú",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Toàn thần quán chú (tập trung cao độ))"
     },
     {
       "chinese": "识文断字",
@@ -42,8 +42,8 @@
     },
     {
       "chinese": "粉雕玉琢",
-      "vietnamese": "Phấn điêu ngọc trác",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Xinh xắn như búp bê)"
+      "vietnamese": "Phấn điêu ngọc tạc (đẹp đẽ như tượng ngọc)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phấn điêu ngọc trác)"
     },
     {
       "chinese": "朝天辫",
@@ -296,11 +296,6 @@
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     },
     {
-      "chinese": "(本章完)",
-      "vietnamese": "(本章完)",
-      "description": "Tự học tự động từ Gemini polish (global)"
-    },
-    {
       "chinese": "片刻之后。",
       "vietnamese": "片刻之后。",
       "description": "Tự học tự động từ Gemini polish (global)"
@@ -418,6 +413,11 @@
     {
       "chinese": "博览群书",
       "vietnamese": "Đọc rộng hiểu sâu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "滚滚大势",
+      "vietnamese": "Làn sóng thời thế",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

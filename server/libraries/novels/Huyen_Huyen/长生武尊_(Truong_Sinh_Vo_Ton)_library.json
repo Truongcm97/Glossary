@@ -172,8 +172,8 @@
     },
     {
       "chinese": "神话纪元录",
-      "vietnamese": "Thần Thoại Kỷ Nguyên Lục",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Biên niên sử thần thoại",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thần Thoại Kỷ Nguyên Lục)"
     },
     {
       "chinese": "第1章 江宁",
@@ -182,18 +182,18 @@
     },
     {
       "chinese": "洛水县。",
-      "vietnamese": "Lạc Thủy Huyện.",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sự tĩnh lặng vốn có của huyện Lạc Thủy từ lâu đã bị phá vỡ, trên những con đường huyết mạch của huyện thành, tiếng rao bán hàng đã vang lên rộn rã, khắp nơi đều là cảnh tượng huyên náo, nhộn nhịp.)"
+      "vietnamese": "Sự yên tĩnh vốn có của huyện Lạc Thủy sớm đã tan biến, thay vào đó là cảnh tượng náo nhiệt, ồn ào với tiếng rao hàng vang vọng khắp các con phố lớn nhỏ.",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lạc Thủy Huyện.)"
     },
     {
       "chinese": "清晨。",
-      "vietnamese": "Sáng sớm.",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phía đông huyện Lạc Thủy, trong một tiểu viện bao quanh bởi hàng rào gỗ.)"
+      "vietnamese": "Phía đông huyện Lạc Thủy, trong một tiểu viện được bao quanh bởi hàng rào tre.",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sáng sớm.)"
     },
     {
       "chinese": "下一刻。",
-      "vietnamese": "Giây tiếp theo.",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mỗi lần đột phá, anh đều cảm thấy tâm trí càng thêm minh mẫn, suy nghĩ thông suốt, nhĩ thông mục minh.)"
+      "vietnamese": "Mỗi lần đột phá, hắn đều cảm thấy tâm trí càng thêm minh mẫn, suy nghĩ thông suốt, tai thính mắt tinh.",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giây tiếp theo.)"
     },
     {
       "chinese": "“嘟嘟！",
@@ -289,6 +289,11 @@
       "chinese": "”江宁开口。",
       "vietnamese": "”Giang Ninh开口。",
       "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "捕快",
+      "vietnamese": "Bộ khoái",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }
