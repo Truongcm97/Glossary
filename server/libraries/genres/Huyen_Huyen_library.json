@@ -52,8 +52,8 @@
     },
     {
       "chinese": "源能",
-      "vietnamese": "Nguyên năng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Nguồn năng lượng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên năng)"
     },
     {
       "chinese": "武道",
@@ -78,6 +78,11 @@
     {
       "chinese": "一人敌国",
       "vietnamese": "Một người địch quốc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "识文断字",
+      "vietnamese": "Thông hiểu văn tự",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
