@@ -1,31 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "出生入死",
-      "vietnamese": "Vào sinh ra tử",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "因公负伤",
-      "vietnamese": "Bị thương vì công",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "安置妥当",
-      "vietnamese": "An bài ổn thỏa",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "大富大贵",
-      "vietnamese": "Đại phú đại quý",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "不地道",
-      "vietnamese": "Không ra gì/không làm đến nơi đến chốn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "打生打死",
       "vietnamese": "Bán mạng/liều chết",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
