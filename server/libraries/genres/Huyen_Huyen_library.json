@@ -37,8 +37,8 @@
     },
     {
       "chinese": "破限",
-      "vietnamese": "Phá Hạn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá Hạn (Phá vỡ giới hạn))"
+      "vietnamese": "Phá Hạn (Phá vỡ giới hạn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá Hạn)"
     },
     {
       "chinese": "温养体魄",
@@ -138,6 +138,11 @@
     {
       "chinese": "吏籍",
       "vietnamese": "Lại tịch (hồ sơ quan lại/chức vụ trong hệ thống quan lại)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "入品",
+      "vietnamese": "Nhập phẩm (Cảnh giới võ đạo)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

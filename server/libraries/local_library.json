@@ -57,8 +57,8 @@
     },
     {
       "chinese": "美人坯子",
-      "vietnamese": "Mỹ nhân phôi thai (cốt cách mỹ nhân)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mỹ nhân phôi thai)"
+      "vietnamese": "Cốt cách mỹ nhân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mỹ nhân phôi thai (cốt cách mỹ nhân))"
     },
     {
       "chinese": "大家闺秀",
@@ -157,8 +157,8 @@
     },
     {
       "chinese": "皂袍",
-      "vietnamese": "Tạo bào",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tạo bào (áo bào đen của quan lại/bộ khoái))"
+      "vietnamese": "Tạo bào (áo bào đen)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tạo bào)"
     },
     {
       "chinese": "香火",
@@ -289,6 +289,101 @@
       "chinese": "一个人敌国",
       "vietnamese": "Một người địch quốc",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "捕快",
+      "vietnamese": "Bộ khoái",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "(本章完)",
+      "vietnamese": "(本章完)",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "片刻之后。",
+      "vietnamese": "片刻之后。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "又过了许久。",
+      "vietnamese": "又过了许久。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "就在此时。",
+      "vietnamese": "就在此时。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "片刻后。",
+      "vietnamese": "片刻后。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "另一边。",
+      "vietnamese": "另一边。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "县尊",
+      "vietnamese": "Huyện tôn (cách gọi tôn kính vị huyện quan)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "泫然欲泣",
+      "vietnamese": "Chực khóc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "回天乏术",
+      "vietnamese": "Hết cách cứu vãn (Hồi thiên phạt thuật)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "“大哥！",
+      "vietnamese": "\"Đại ca!",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "突然间。",
+      "vietnamese": "突然间。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "“黎哥——”",
+      "vietnamese": "“黎哥——”",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "砰——",
+      "vietnamese": "砰——",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "——",
+      "vietnamese": "——",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "月明星稀。",
+      "vietnamese": "月明星稀。",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "汪汪汪——",
+      "vietnamese": "汪汪汪——",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "真出事了？",
+      "vietnamese": "真出事了？",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "就在这时。",
+      "vietnamese": "就在这时。",
+      "description": "Tự học tự động từ Gemini polish (global)"
     }
   ]
 }
