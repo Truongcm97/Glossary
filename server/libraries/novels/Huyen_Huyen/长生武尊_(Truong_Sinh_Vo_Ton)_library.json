@@ -682,8 +682,8 @@
     },
     {
       "chinese": "东陵郡",
-      "vietnamese": "Đông陵 quận",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông Lăng quận)"
+      "vietnamese": "Đông Lăng quận",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông陵 quận)"
     },
     {
       "chinese": "[6] 武秀才",
@@ -692,8 +692,8 @@
     },
     {
       "chinese": "曹嵘",
-      "vietnamese": "Tào Vanh (hoặc Tào Nhung)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào Vanh)"
+      "vietnamese": "Tào Vanh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào Vanh (hoặc Tào Nhung))"
     },
     {
       "chinese": "东陵城",
@@ -729,11 +729,6 @@
       "chinese": "六七十年代",
       "vietnamese": "Lục Thất Thập Niên Đại (tên người dùng)",
       "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
-    },
-    {
-      "chinese": "第73章",
-      "vietnamese": "Chương 73",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     },
     {
       "chinese": "程师兄",
@@ -1028,6 +1023,11 @@
     {
       "chinese": "城东",
       "vietnamese": "Đông thành",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "淮安王",
+      "vietnamese": "Hoài An Vương",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

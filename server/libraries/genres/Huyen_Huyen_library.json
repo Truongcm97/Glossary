@@ -2274,6 +2274,16 @@
       "chinese": "九品武道",
       "vietnamese": "Cửu phẩm võ đạo",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "豹胎易形锻体丹",
+      "vietnamese": "Báo Thai Dịch Hình Đoán Thể Đan",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "内伤",
+      "vietnamese": "Nội thương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
