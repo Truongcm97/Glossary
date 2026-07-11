@@ -1,14 +1,3 @@
 {
-  "mappings": [
-    {
-      "chinese": "先天",
-      "vietnamese": "Tiên thiên",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "把快",
-      "vietnamese": "Bắt Khoái",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    }
-  ]
+  "mappings": []
 }
