@@ -1,36 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "寻个出路",
-      "vietnamese": "Tìm đường tiến thân",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "着落",
-      "vietnamese": "Chỗ dựa/Nơi nương tựa",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "娶妻生子",
-      "vietnamese": "Cưới vợ sinh con",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "内堂",
-      "vietnamese": "Nội đường",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "仁至义尽",
-      "vietnamese": "Nhân chí nghĩa tận",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "游手好闲",
-      "vietnamese": "Du thủ du thực / Lười biếng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Du thủ du thực/Lười biếng)"
-    },
-    {
       "chinese": "小叔子",
       "vietnamese": "Tiểu thúc tử (em chồng)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
