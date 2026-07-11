@@ -112,8 +112,8 @@
     },
     {
       "chinese": "虎形拳",
-      "vietnamese": "Hổ hình quyền",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Hổ Hình Quyền",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hổ hình quyền)"
     },
     {
       "chinese": "曹斌",
@@ -248,6 +248,16 @@
     {
       "chinese": "明月楼",
       "vietnamese": "Minh Nguyệt Lâu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "城隍庙",
+      "vietnamese": "Thành Hoàng Miếu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "熊形拳",
+      "vietnamese": "Hùng Hình Quyền",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
