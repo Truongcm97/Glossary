@@ -1,51 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "拮据",
-      "vietnamese": "Túng thiếu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "身无分文",
-      "vietnamese": "Tay trắng/Không một xu dính túi",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "吸血",
-      "vietnamese": "Hút máu (nghĩa bóng)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "欣慰",
-      "vietnamese": "Vui mừng/Hài lòng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "武艺非凡",
-      "vietnamese": "Võ nghệ bất phàm",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "积蓄",
-      "vietnamese": "Tích góp",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "呲牙",
-      "vietnamese": "Nhe răng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "三脚猫功夫",
-      "vietnamese": "Võ công ba chân bốn cẳng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "良师出高徒",
-      "vietnamese": "Lương sư xuất cao đồ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "寻个出路",
       "vietnamese": "Tìm đường tiến thân",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
