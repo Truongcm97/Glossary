@@ -1,46 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "Mythic Era",
-      "vietnamese": "Kỷ Nguyên Thần Thoại",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "破限",
-      "vietnamese": "Phá hạn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá hạn (Phá vỡ giới hạn))"
-    },
-    {
-      "chinese": "元能",
-      "vietnamese": "Nguyên năng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên Năng)"
-    },
-    {
-      "chinese": "空明",
-      "vietnamese": "Không minh (trạng thái tâm trí sáng suốt, trống rỗng)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "浩然正气",
-      "vietnamese": "Hạo nhiên chính khí",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hạo Nhiên Chính Khí)"
-    },
-    {
-      "chinese": "灌顶",
-      "vietnamese": "Quán đỉnh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quán đỉnh (truyền thụ tinh hoa, năng lượng))"
-    },
-    {
-      "chinese": "神魂",
-      "vietnamese": "Thần hồn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "武道",
-      "vietnamese": "Võ đạo",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "超凡入圣",
       "vietnamese": "Siêu phàm nhập thánh",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
