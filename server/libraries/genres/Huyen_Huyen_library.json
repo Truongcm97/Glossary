@@ -794,6 +794,11 @@
       "chinese": "人工神灵",
       "vietnamese": "Nhân tạo thần linh",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "全神贯注",
+      "vietnamese": "Toàn thần quán chú (tập trung tinh thần)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }

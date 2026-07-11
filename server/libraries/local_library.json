@@ -22,8 +22,8 @@
     },
     {
       "chinese": "化腐朽为神奇",
-      "vietnamese": "Hóa hủ mục vi thần kỳ (hóa mục nát thành kỳ diệu)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hóa mục nát thành thần kỳ)"
+      "vietnamese": "Hóa mục nát thành kỳ diệu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hóa hủ mục vi thần kỳ (hóa mục nát thành kỳ diệu))"
     },
     {
       "chinese": "一证永证",
@@ -32,8 +32,8 @@
     },
     {
       "chinese": "栩栩如生",
-      "vietnamese": "Hủ hủ như sinh (sống động như thật)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sống động chân thực)"
+      "vietnamese": "Sống động như thật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hủ hủ như sinh (sống động như thật))"
     },
     {
       "chinese": "手到擒来",
@@ -57,8 +57,8 @@
     },
     {
       "chinese": "美人坯子",
-      "vietnamese": "Mỹ nhân phôi (hạt giống mỹ nhân)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cốt cách mỹ nhân)"
+      "vietnamese": "Hạt giống mỹ nhân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mỹ nhân phôi (hạt giống mỹ nhân))"
     },
     {
       "chinese": "大家闺秀",
@@ -137,8 +137,8 @@
     },
     {
       "chinese": "不事生产",
-      "vietnamese": "Không làm lụng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Không làm lụng (không lao động sản xuất)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không làm lụng)"
     },
     {
       "chinese": "拮据",
@@ -2003,6 +2003,11 @@
     {
       "chinese": "入品",
       "vietnamese": "Nhập phẩm (đạt đến cảnh giới võ đạo)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "缕缕晨曦",
+      "vietnamese": "Từng tia sáng ban mai",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
