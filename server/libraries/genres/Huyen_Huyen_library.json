@@ -38,7 +38,7 @@
     {
       "chinese": "破限",
       "vietnamese": "Phá hạn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá hạn (Vượt giới hạn))"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: phá hạn)"
     },
     {
       "chinese": "温养体魄",
@@ -52,8 +52,8 @@
     },
     {
       "chinese": "源能",
-      "vietnamese": "Nguyên năng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên Năng)"
+      "vietnamese": "nguyên năng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên năng)"
     },
     {
       "chinese": "武道",
@@ -82,8 +82,8 @@
     },
     {
       "chinese": "识文断字",
-      "vietnamese": "Thức văn đoạn tự (biết chữ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức văn đoạn tự (biết đọc biết viết))"
+      "vietnamese": "Thức văn đoạn tự / biết chữ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức văn đoạn tự (biết chữ))"
     },
     {
       "chinese": "一入成军",
@@ -317,8 +317,8 @@
     },
     {
       "chinese": "劈柴刀法",
-      "vietnamese": "Phách Sài Đao Pháp (Đao pháp bổ củi)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài Đao Pháp/Đao pháp bổ củi)"
+      "vietnamese": "Phách Sài Đao Pháp",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài Đao Pháp (Đao pháp bổ củi))"
     },
     {
       "chinese": "精通",
@@ -357,8 +357,8 @@
     },
     {
       "chinese": "特性",
-      "vietnamese": "Đặc tính",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đặc Tính)"
+      "vietnamese": "đặc tính",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đặc tính)"
     },
     {
       "chinese": "练血宗师",
@@ -832,8 +832,8 @@
     },
     {
       "chinese": "经验值",
-      "vietnamese": "Điểm kinh nghiệm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Điểm kinh nghiệm (Thuật ngữ hệ thống))"
+      "vietnamese": "điểm kinh nghiệm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Điểm kinh nghiệm)"
     },
     {
       "chinese": "入书",
@@ -1022,8 +1022,8 @@
     },
     {
       "chinese": "面板",
-      "vietnamese": "Bảng thuộc tính / Bảng thông số",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bảng thông số/Bảng trạng thái)"
+      "vietnamese": "bảng thuộc tính / bảng thông số",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bảng thuộc tính / Bảng thông số)"
     },
     {
       "chinese": "贯通",
@@ -1167,8 +1167,8 @@
     },
     {
       "chinese": "源能点数",
-      "vietnamese": "Điểm nguyên năng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "điểm nguyên năng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Điểm nguyên năng)"
     },
     {
       "chinese": "秘法",
@@ -1572,8 +1572,8 @@
     },
     {
       "chinese": "大药",
-      "vietnamese": "Đại dược (Dược liệu đại bổ)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Đại dược (dược liệu đại bổ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại dược (Dược liệu đại bổ))"
     },
     {
       "chinese": "捕头",
@@ -1769,6 +1769,26 @@
       "chinese": "八品",
       "vietnamese": "Bát phẩm (cấp bậc võ giả)",
       "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "二次破限",
+      "vietnamese": "phá hạn lần hai / phá hạn lần thứ hai",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "触类旁通",
+      "vietnamese": "Xúc loại bàng thông",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刀如疾风",
+      "vietnamese": "Đao như tật phong",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "百锻精铁",
+      "vietnamese": "Tinh thiết trăm lần tôi luyện",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }

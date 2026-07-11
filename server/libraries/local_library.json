@@ -12,8 +12,8 @@
     },
     {
       "chinese": "识文断字",
-      "vietnamese": "Thức văn đoạn tự (Biết chữ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức văn đoạn tự (biết chữ/biết đọc viết))"
+      "vietnamese": "Thức văn đoạn tự (biết chữ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức văn đoạn tự (Biết chữ))"
     },
     {
       "chinese": "暴涨",
@@ -667,8 +667,8 @@
     },
     {
       "chinese": "石锁",
-      "vietnamese": "Khóa đá",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "thạch tỏa",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khóa đá)"
     },
     {
       "chinese": "次日",
@@ -3818,6 +3818,66 @@
     {
       "chinese": "一飞冲天",
       "vietnamese": "Bay vút tận trời",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "练拳",
+      "vietnamese": "luyện quyền",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "拳法",
+      "vietnamese": "quyền pháp",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "筋骨",
+      "vietnamese": "gân cốt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刀光",
+      "vietnamese": "đao quang",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刀影",
+      "vietnamese": "đao ảnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "收刀入鞘",
+      "vietnamese": "thu đao vào bao / thu đao vào vỏ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "后发先至",
+      "vietnamese": "ra đòn sau đến trước / đến sau vượt trước",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "五百斤",
+      "vietnamese": "năm trăm cân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "借势",
+      "vietnamese": "mượn oai hùm / mượn thế",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刀如疾风",
+      "vietnamese": "Đao như tật phong",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白虹",
+      "vietnamese": "Bạch hồng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "天生神力",
+      "vietnamese": "Trời sinh thần lực",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

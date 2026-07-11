@@ -317,8 +317,8 @@
     },
     {
       "chinese": "武馆",
-      "vietnamese": "Võ quán",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: võ quán)"
+      "vietnamese": "võ quán",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ quán)"
     },
     {
       "chinese": "巡察府",
@@ -662,8 +662,8 @@
     },
     {
       "chinese": "九重劲",
-      "vietnamese": "Cửu Trọng Kình (Tên công pháp/kỹ năng)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cửu Trọng Kình)"
+      "vietnamese": "Cửu Trọng Kình",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cửu Trọng Kình (Tên công pháp/kỹ năng))"
     },
     {
       "chinese": "五禽劲",
@@ -794,6 +794,11 @@
       "chinese": "杨宗",
       "vietnamese": "Dương Tông",
       "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "破柴刀法",
+      "vietnamese": "Phách Sài Đao Pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }
