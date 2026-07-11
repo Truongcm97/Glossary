@@ -1,26 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "气血",
-      "vietnamese": "Khí huyết",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "拳意",
-      "vietnamese": "Quyền ý",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "师兄",
-      "vietnamese": "Sư huynh",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "野参",
-      "vietnamese": "Dã sâm",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "武馆",
       "vietnamese": "Võ quán",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
