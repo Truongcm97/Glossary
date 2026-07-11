@@ -1377,8 +1377,8 @@
     },
     {
       "chinese": "打赏",
-      "vietnamese": "Tặng quà/Đả thưởng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đả thưởng (tặng quà))"
+      "vietnamese": "Tặng quà / Đả thưởng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tặng quà/Đả thưởng)"
     },
     {
       "chinese": "弟子",
@@ -3317,8 +3317,8 @@
     },
     {
       "chinese": "居功至伟",
-      "vietnamese": "Góp công đầu/Công lao to lớn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Công lao hiển hách/Có công lao to lớn)"
+      "vietnamese": "Công đầu / Công lao to lớn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Góp công đầu/Công lao to lớn)"
     },
     {
       "chinese": "屈指可数",
@@ -3327,8 +3327,8 @@
     },
     {
       "chinese": "棘手",
-      "vietnamese": "Rắc rối/Khó giải quyết",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Rắc rối / Khó giải quyết",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Rắc rối/Khó giải quyết)"
     },
     {
       "chinese": "滚滚雷霆",
@@ -3377,8 +3377,8 @@
     },
     {
       "chinese": "底气",
-      "vietnamese": "Nền tảng/Hơi sức/Tự tin",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Nền tảng / Hơi sức / Tự tin",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nền tảng/Hơi sức/Tự tin)"
     },
     {
       "chinese": "硬接",
@@ -3454,6 +3454,36 @@
       "chinese": "死穴",
       "vietnamese": "Tử huyệt",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "犬子",
+      "vietnamese": "Khuyển tử (cách gọi con trai khiêm tốn)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "十丈",
+      "vietnamese": "Mười trượng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "巅峰",
+      "vietnamese": "Đỉnh cao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "怒目金刚",
+      "vietnamese": "Nộ mục kim cương (tượng trưng sức mạnh thịnh nộ)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "鸟作兽散",
+      "vietnamese": "Chim bay thú tán",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "箭矢",
+      "vietnamese": "Mũi tên",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }

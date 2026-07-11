@@ -12,8 +12,8 @@
     },
     {
       "chinese": "洛水县",
-      "vietnamese": "huyện Lạc Thủy",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện Lạc Thủy)"
+      "vietnamese": "Huyện Lạc Thủy",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: huyện Lạc Thủy)"
     },
     {
       "chinese": "大夏",
@@ -708,12 +708,12 @@
     {
       "chinese": "曹嵘",
       "vietnamese": "Tào Vanh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào Róng)"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào Vanh)"
     },
     {
       "chinese": "东陵城",
-      "vietnamese": "thành Đông Lăng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thành Đông Lăng)"
+      "vietnamese": "Thành Đông Lăng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: thành Đông Lăng)"
     },
     {
       "chinese": "五禽老魔",
@@ -729,6 +729,16 @@
       "chinese": "林青衣",
       "vietnamese": "Lâm Thanh Y",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "王德生",
+      "vietnamese": "Vương Đức Sinh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "三大家族",
+      "vietnamese": "Ba đại gia tộc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
