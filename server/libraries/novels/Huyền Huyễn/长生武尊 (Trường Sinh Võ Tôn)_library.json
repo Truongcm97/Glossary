@@ -1,0 +1,174 @@
+{
+  "mappings": [
+    {
+      "chinese": "萧炎",
+      "vietnamese": "Tiêu Viêm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "步快",
+      "vietnamese": "Bộ khoái (lính sai nha)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "江宁",
+      "vietnamese": "Giang Ninh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "洛水县",
+      "vietnamese": "Huyện Lạc Thủy",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lạc Thủy Huyện)"
+    },
+    {
+      "chinese": "大夏",
+      "vietnamese": "Đại Hạ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "江延延",
+      "vietnamese": "Giang Diên Diên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "豆包",
+      "vietnamese": "Đậu Bao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "江一明",
+      "vietnamese": "Giang Nhất Minh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "柳婉婉",
+      "vietnamese": "Liễu Uyển Uyển",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "仙神通解",
+      "vietnamese": "Tiên Thần Thông Giải",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "江黎",
+      "vietnamese": "Giang Lê",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "拜神教",
+      "vietnamese": "Bái Thần Giáo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "江上景",
+      "vietnamese": "Giang Thướng Cảnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "婉婉",
+      "vietnamese": "Uyển Uyển",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "王进",
+      "vietnamese": "Vương Tiến",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "沧浪武馆",
+      "vietnamese": "Thương Lãng Võ Quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "曹彬",
+      "vietnamese": "Tào Bân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "徐云峰",
+      "vietnamese": "Từ Vân Phong",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "李情",
+      "vietnamese": "Lý Tình",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "苍浪武馆",
+      "vietnamese": "Thương Lãng võ quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "五禽拳",
+      "vietnamese": "Ngũ Cầm Quyền",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "朱兴",
+      "vietnamese": "Chu Hưng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "虎形拳",
+      "vietnamese": "Hổ hình quyền",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "- [novel]",
+      "vietnamese": "Cho các tên riêng nhân vật, địa danh, tên môn phái, công pháp đặc thù riêng biệt chỉ có trong truyện này.",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "- [genre]",
+      "vietnamese": "Cho các thuật ngữ tu luyện, cảnh giới, tên đan dược phổ biến cho cả thể loại truyện này.",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "- [global]",
+      "vietnamese": "Cho các thành ngữ, tục ngữ, từ vựng chung, câu văn đối thoại thường gặp, câu đùa dùng được cho mọi truyện.",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "曹斌",
+      "vietnamese": "Tào Bân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "小豆包",
+      "vietnamese": "Tiểu Đậu Bao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "Giang Ninh",
+      "vietnamese": "Giang Ninh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "A Ninh",
+      "vietnamese": "Giang Ninh (tên gọi thân mật)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "造袍",
+      "vietnamese": "Tạo bào",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "神曦",
+      "vietnamese": "Thần hy (ánh sáng thần thánh/bình minh)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "天生灵慧者",
+      "vietnamese": "Thiên sinh linh tuệ giả",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    },
+    {
+      "chinese": "商浪武馆",
+      "vietnamese": "Thương Lãng Võ Quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+    }
+  ]
+}
