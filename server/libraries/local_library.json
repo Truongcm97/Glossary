@@ -257,13 +257,13 @@
     },
     {
       "chinese": "地头蛇",
-      "vietnamese": "Địa đầu xà (Thế lực bản địa / Thổ địa)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Địa đầu xà (thế lực bản địa))"
+      "vietnamese": "Địa đầu xà (Thế lực bản địa)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Địa đầu xà (Thế lực bản địa / Thổ địa))"
     },
     {
       "chinese": "过江龙",
-      "vietnamese": "Con rồng qua sông (Thế lực từ nơi khác tới)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Rồng quá giang (thế lực từ nơi khác tới))"
+      "vietnamese": "Con rồng qua sông (Thế lực ngoại bang/từ nơi khác đến)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Con rồng qua sông (Thế lực từ nơi khác tới))"
     },
     {
       "chinese": "戌时一刻",
@@ -602,8 +602,8 @@
     },
     {
       "chinese": "管中窥豹",
-      "vietnamese": "Nhìn vết mà biết báo (từ góc nhìn hạn hẹp mà đánh giá toàn bộ cục diện)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhìn vết mà biết báo (nhìn một góc biết cả cục diện))"
+      "vietnamese": "Nhìn vết mà biết báo (nhìn một góc mà đánh giá toàn cục)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhìn vết mà biết báo (từ góc nhìn hạn hẹp mà đánh giá toàn bộ cục diện))"
     },
     {
       "chinese": "鱼龙混杂",
@@ -837,8 +837,8 @@
     },
     {
       "chinese": "吏籍",
-      "vietnamese": "Danh sách làm lại (chức danh trong nha môn)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Hồ sơ quan lại (thân phận chính thức trong nha môn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Danh sách làm lại (chức danh trong nha môn))"
     },
     {
       "chinese": "月光",
@@ -1978,6 +1978,31 @@
     {
       "chinese": "县衙",
       "vietnamese": "Huyện nha",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "猖獗",
+      "vietnamese": "Xương quyết (hung hăng, ngông cuồng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "戌时",
+      "vietnamese": "Giờ Tuất",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "识趣",
+      "vietnamese": "Biết thời thế / Biết điều",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白热化",
+      "vietnamese": "Nước sôi lửa bỏng (giai đoạn căng thẳng nhất)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "入品",
+      "vietnamese": "Nhập phẩm (đạt đến cảnh giới võ đạo)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

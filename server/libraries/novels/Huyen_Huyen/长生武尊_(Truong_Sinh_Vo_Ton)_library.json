@@ -132,8 +132,8 @@
     },
     {
       "chinese": "天生灵慧者",
-      "vietnamese": "Thiên sinh linh tuệ giả",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "vietnamese": "Thiên sinh linh tuệ giả (Người trời sinh có linh tuệ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiên sinh linh tuệ giả)"
     },
     {
       "chinese": "商浪武馆",
@@ -257,8 +257,8 @@
     },
     {
       "chinese": "吏籍",
-      "vietnamese": "Danh sách làm lại (chức danh trong nha môn)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lại tịch (thân phận làm lại/lại viên trong nha môn))"
+      "vietnamese": "Lại tịch (Hồ sơ quan lại/chức danh trong nha môn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Danh sách làm lại (chức danh trong nha môn))"
     },
     {
       "chinese": "王都头",
@@ -438,6 +438,11 @@
     {
       "chinese": "皂袍",
       "vietnamese": "Áo bào đen",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "良师",
+      "vietnamese": "Lương sư (Người thầy tốt)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
