@@ -52,8 +52,8 @@
     },
     {
       "chinese": "源能",
-      "vietnamese": "Nguyên Năng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguồn năng lượng)"
+      "vietnamese": "Nguồn năng lượng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên Năng)"
     },
     {
       "chinese": "武道",
@@ -92,8 +92,8 @@
     },
     {
       "chinese": "胎中之谜",
-      "vietnamese": "Thai trung chi mê",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thai trung chi mê (ký ức tiền kiếp bị phong ấn khi đầu thai))"
+      "vietnamese": "Thai trung chi mê (Sự quên lãng ký ức tiền kiếp khi đầu thai)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thai trung chi mê)"
     },
     {
       "chinese": "武圣",
@@ -112,8 +112,8 @@
     },
     {
       "chinese": "灌顶",
-      "vietnamese": "Quán đỉnh",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Quán đỉnh (truyền thụ sức mạnh)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Quán đỉnh)"
     },
     {
       "chinese": "神魂",
@@ -198,6 +198,16 @@
     {
       "chinese": "大补",
       "vietnamese": "Đại bổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "清灵之力",
+      "vietnamese": "Linh lực thanh tịnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "伟力尽归于身",
+      "vietnamese": "Sức mạnh tuyệt đối thuộc về bản thân",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
