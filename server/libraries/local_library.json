@@ -7,13 +7,13 @@
     },
     {
       "chinese": "全神贯注",
-      "vietnamese": "Toàn thần quán chú",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Toàn thần quán chú (Tập trung tinh thần))"
+      "vietnamese": "Toàn thần quán chú (tập trung tinh thần cao độ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Toàn thần quán chú)"
     },
     {
       "chinese": "识文断字",
-      "vietnamese": "Thông hiểu văn tự / Biết chữ",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thông hiểu văn tự)"
+      "vietnamese": "Thông hiểu văn tự",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thông hiểu văn tự / Biết chữ)"
     },
     {
       "chinese": "暴涨",
@@ -42,13 +42,13 @@
     },
     {
       "chinese": "粉雕玉琢",
-      "vietnamese": "Xinh xắn như búp bê/Đẹp như tạc ngọc",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phấn điêu ngọc trác (xinh xắn như búp bê))"
+      "vietnamese": "Phấn điêu ngọc trác (xinh xắn như búp bê)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Xinh xắn như búp bê/Đẹp như tạc ngọc)"
     },
     {
       "chinese": "朝天辫",
-      "vietnamese": "Tóc chỏm/Tóc thắt hai bên",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm)"
+      "vietnamese": "Tóc chỏm (tóc thắt hai bên)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm/Tóc thắt hai bên)"
     },
     {
       "chinese": "肉嘟嘟",
@@ -57,8 +57,8 @@
     },
     {
       "chinese": "美人坯子",
-      "vietnamese": "Cốt cách mỹ nhân",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mỹ nhân phôi thai (cốt cách mỹ nhân))"
+      "vietnamese": "Mỹ nhân phôi (hạt giống mỹ nhân)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cốt cách mỹ nhân)"
     },
     {
       "chinese": "大家闺秀",
@@ -72,8 +72,8 @@
     },
     {
       "chinese": "游手好闲",
-      "vietnamese": "Du thủ hảo nhàn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ăn không ngồi rồi)"
+      "vietnamese": "Du thủ du thực",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Du thủ hảo nhàn)"
     },
     {
       "chinese": "人之常情",
@@ -87,8 +87,8 @@
     },
     {
       "chinese": "大厦将倾",
-      "vietnamese": "Đại hạ tương khuynh (Tòa nhà sắp đổ, ẩn dụ vương triều sắp sụp đổ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại hạ tương khuynh)"
+      "vietnamese": "Đại hạ tương khuynh (vương triều sắp sụp đổ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại hạ tương khuynh (Tòa nhà sắp đổ, ẩn dụ vương triều sắp sụp đổ))"
     },
     {
       "chinese": "一人成军",
@@ -167,8 +167,8 @@
     },
     {
       "chinese": "古井无波",
-      "vietnamese": "Cổ tĩnh vô ba (tĩnh lặng như nước)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cổ tĩnh vô ba)"
+      "vietnamese": "Tĩnh lặng như nước",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cổ tĩnh vô ba (tĩnh lặng như nước))"
     },
     {
       "chinese": "过目不忘",
@@ -212,8 +212,8 @@
     },
     {
       "chinese": "三脚猫",
-      "vietnamese": "Võ nghệ ba chân bốn cẳng / Xoàng xĩnh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Mèo cào (ám chỉ võ nghệ xoàng xĩnh))"
+      "vietnamese": "Ba chân bốn cẳng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ nghệ ba chân bốn cẳng / Xoàng xĩnh)"
     },
     {
       "chinese": "良师出高徒",
@@ -342,8 +342,8 @@
     },
     {
       "chinese": "博览群书",
-      "vietnamese": "Đọc rộng hiểu sâu (tương đương với việc đọc nhiều sách)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đọc rộng hiểu sâu)"
+      "vietnamese": "Đọc rộng hiểu sâu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đọc rộng hiểu sâu (tương đương với việc đọc nhiều sách))"
     },
     {
       "chinese": "滚滚大势",
@@ -502,8 +502,8 @@
     },
     {
       "chinese": "空明",
-      "vietnamese": "Không minh (trí tuệ sáng suốt, tâm hồn trong sáng)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không minh)"
+      "vietnamese": "Tâm trí sáng suốt",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không minh (trí tuệ sáng suốt, tâm hồn trong sáng))"
     },
     {
       "chinese": "科举",
@@ -1052,8 +1052,8 @@
     },
     {
       "chinese": "杂书",
-      "vietnamese": "Tạp thư",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Tạp thư (sách tạp văn, sách linh tinh)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tạp thư)"
     },
     {
       "chinese": "一叶",
@@ -1112,8 +1112,8 @@
     },
     {
       "chinese": "耳聪目明",
-      "vietnamese": "Nhĩ thông mục minh (tai thính mắt tinh)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Tai thính mắt tinh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhĩ thông mục minh (tai thính mắt tinh))"
     },
     {
       "chinese": "妙用",
@@ -1918,6 +1918,66 @@
     {
       "chinese": "景象",
       "vietnamese": "Cảnh tượng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "寄居",
+      "vietnamese": "Ký cư (ăn nhờ ở đậu)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "一力承担",
+      "vietnamese": "Một tay gánh vác",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "家风",
+      "vietnamese": "Phong thái gia đình",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "旭日东升",
+      "vietnamese": "Mặt trời mọc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "高悬",
+      "vietnamese": "Treo trên cao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "烟火气息",
+      "vietnamese": "Hơi thở khói bếp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "滚烫",
+      "vietnamese": "Nóng bỏng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "洗洗",
+      "vietnamese": "Rửa mặt/Tắm rửa",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "琐碎",
+      "vietnamese": "Lẩm bẩm/Càu nhàu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "爽朗",
+      "vietnamese": "Hào sảng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "蓄积",
+      "vietnamese": "Tích súc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "县衙",
+      "vietnamese": "Huyện nha",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

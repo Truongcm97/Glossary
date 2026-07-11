@@ -1,11 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "萧炎",
-      "vietnamese": "Tiêu Viêm",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "步快",
       "vietnamese": "Bộ khoái",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
@@ -438,6 +433,16 @@
     {
       "chinese": "猛虎劲",
       "vietnamese": "Mãnh Hổ Kình",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "皂袍",
+      "vietnamese": "Áo bào đen",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "Giang Ninh",
+      "vietnamese": "Giang Ninh",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

@@ -52,8 +52,8 @@
     },
     {
       "chinese": "源能",
-      "vietnamese": "Nguyên Năng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguồn năng lượng)"
+      "vietnamese": "Nguyên năng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên Năng)"
     },
     {
       "chinese": "武道",
@@ -67,8 +67,8 @@
     },
     {
       "chinese": "一证永证",
-      "vietnamese": "Một chứng vĩnh chứng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Một lần chứng thực là vĩnh viễn)"
+      "vietnamese": "Một chứng vĩnh chứng (đạt được vĩnh viễn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Một chứng vĩnh chứng)"
     },
     {
       "chinese": "一人成军",
@@ -152,8 +152,8 @@
     },
     {
       "chinese": "武道入品",
-      "vietnamese": "Nhập phẩm võ đạo (đạt đẳng cấp võ giả)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhập phẩm võ đạo)"
+      "vietnamese": "Nhập phẩm võ đạo",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhập phẩm võ đạo (đạt đẳng cấp võ giả))"
     },
     {
       "chinese": "真传弟子",
@@ -748,6 +748,46 @@
     {
       "chinese": "锻骨大成",
       "vietnamese": "Đoạn cốt đại thành",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[Mythic Era]",
+      "vietnamese": "Kỷ nguyên thần thoại",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "神人共存",
+      "vietnamese": "Thần nhân cùng tồn tại",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "妙用",
+      "vietnamese": "Diệu dụng (tác dụng kỳ diệu)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "昌盛",
+      "vietnamese": "Xương thịnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "开疆裂土",
+      "vietnamese": "Khai cương liệt thổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "一人成军，一人敌国",
+      "vietnamese": "Một người thành quân, một người địch quốc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "骨龄",
+      "vietnamese": "Cốt linh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "养生功",
+      "vietnamese": "Dưỡng sinh công",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
