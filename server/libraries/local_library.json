@@ -157,8 +157,8 @@
     },
     {
       "chinese": "皂袍",
-      "vietnamese": "Tạo bào (áo bào đen)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tạo bào)"
+      "vietnamese": "Áo bào đen",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tạo bào (áo bào đen))"
     },
     {
       "chinese": "香火",
@@ -354,6 +354,21 @@
       "chinese": "滚滚大势",
       "vietnamese": "Làn sóng thời thế",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "“嗯嗯！",
+      "vietnamese": "“Ừm!",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "“这样啊！",
+      "vietnamese": "“Vậy sao!",
+      "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "“好！",
+      "vietnamese": "“Được!",
+      "description": "Tự học tự động từ Gemini polish (global)"
     }
   ]
 }
