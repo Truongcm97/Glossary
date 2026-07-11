@@ -162,7 +162,7 @@
     },
     {
       "chinese": "香火",
-      "vietnamese": "Hương hỏa (khói bếp/tế lễ)",
+      "vietnamese": "Hương hỏa",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     },
     {
@@ -369,6 +369,11 @@
       "chinese": "“好！",
       "vietnamese": "“Được!",
       "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "婆娘",
+      "vietnamese": "Vợ / Bà xã",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }
