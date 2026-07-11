@@ -42,13 +42,13 @@
     },
     {
       "chinese": "粉雕玉琢",
-      "vietnamese": "Xinh xắn như búp bê",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phấn điêu ngọc trác (vẻ ngoài tinh xảo như búp bê))"
+      "vietnamese": "Phấn điêu ngọc trác",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Xinh xắn như búp bê)"
     },
     {
       "chinese": "朝天辫",
-      "vietnamese": "Tóc chỏm (bím tóc trên đỉnh đầu)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm (朝天辫))"
+      "vietnamese": "Tóc chỏm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tóc chỏm (bím tóc trên đỉnh đầu))"
     },
     {
       "chinese": "肉嘟嘟",
@@ -142,8 +142,8 @@
     },
     {
       "chinese": "拮据",
-      "vietnamese": "Chật vật (kinh tế)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Chật vật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chật vật (kinh tế))"
     },
     {
       "chinese": "主厅",
@@ -384,6 +384,36 @@
       "chinese": "就在这时。",
       "vietnamese": "就在这时。",
       "description": "Tự học tự động từ Gemini polish (global)"
+    },
+    {
+      "chinese": "天灾四起",
+      "vietnamese": "Thiên tai tứ khởi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "流民逃窜",
+      "vietnamese": "Lưu dân đào tẩu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "叛乱纷至",
+      "vietnamese": "Phản loạn khắp nơi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "求存",
+      "vietnamese": "Cầu tồn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "寻常百姓",
+      "vietnamese": "Bách tính bình thường",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "报恩",
+      "vietnamese": "Đền đáp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }

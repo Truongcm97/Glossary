@@ -177,18 +177,18 @@
     },
     {
       "chinese": "第1章 江宁",
-      "vietnamese": "Sáng sớm.",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 10/12/2025 Tác giả: Giang Thướng Cảnh)"
+      "vietnamese": "Chương 1: Giang Ninh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sáng sớm.)"
     },
     {
       "chinese": "洛水县。",
-      "vietnamese": "Sự tĩnh lặng vốn có của huyện Lạc Thủy từ lâu đã bị phá vỡ, trên những con đường huyết mạch của huyện thành, tiếng rao bán hàng đã vang lên rộn rã, khắp nơi đều là cảnh tượng huyên náo, nhộn nhịp.",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "Lạc Thủy Huyện.",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Sự tĩnh lặng vốn có của huyện Lạc Thủy từ lâu đã bị phá vỡ, trên những con đường huyết mạch của huyện thành, tiếng rao bán hàng đã vang lên rộn rã, khắp nơi đều là cảnh tượng huyên náo, nhộn nhịp.)"
     },
     {
       "chinese": "清晨。",
-      "vietnamese": "Phía đông huyện Lạc Thủy, trong một tiểu viện bao quanh bởi hàng rào gỗ.",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "Sáng sớm.",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phía đông huyện Lạc Thủy, trong một tiểu viện bao quanh bởi hàng rào gỗ.)"
     },
     {
       "chinese": "下一刻。",
@@ -197,8 +197,8 @@
     },
     {
       "chinese": "“嘟嘟！",
-      "vietnamese": "\"Đô Đô, đây là sách của Quả Quả, mang cho Đô Đô xem nè!",
-      "description": "Tự học tự động từ Gemini polish (novel)"
+      "vietnamese": "“Đô Đô!",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: \"Đô Đô, đây là sách của Quả Quả, mang cho Đô Đô xem nè!)"
     },
     {
       "chinese": "第2章 破限",
@@ -238,6 +238,21 @@
     {
       "chinese": "江宁点点头。",
       "vietnamese": "Giang Ninh点点头。",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "江鸢鸢",
+      "vietnamese": "Giang Diên Diên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "“吃饭了！",
+      "vietnamese": "“Ăn cơm thôi!",
+      "description": "Tự học tự động từ Gemini polish (novel)"
+    },
+    {
+      "chinese": "(本章完)",
+      "vietnamese": "(Kết chương)",
       "description": "Tự học tự động từ Gemini polish (novel)"
     }
   ]
