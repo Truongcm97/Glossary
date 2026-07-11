@@ -1,11 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "拳谱",
-      "vietnamese": "Quyền phổ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "气血",
       "vietnamese": "Khí huyết",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
