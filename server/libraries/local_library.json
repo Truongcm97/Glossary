@@ -247,8 +247,8 @@
     },
     {
       "chinese": "抚恤金",
-      "vietnamese": "Tiền trợ cấp thương tật (tiền tử tuất/hỗ trợ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền trợ cấp thương tật)"
+      "vietnamese": "Tiền trợ cấp thương tật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiền tuất (tiền trợ cấp thương tật))"
     },
     {
       "chinese": "捕头",
@@ -927,8 +927,8 @@
     },
     {
       "chinese": "大哥",
-      "vietnamese": "Đại Ca",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Đại ca (Huynh trưởng)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại Ca)"
     },
     {
       "chinese": "突然间",
@@ -1067,8 +1067,8 @@
     },
     {
       "chinese": "彻底",
-      "vietnamese": "Hoàn toàn / Triệt để",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Triệt để)"
+      "vietnamese": "Triệt để",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hoàn toàn / Triệt để)"
     },
     {
       "chinese": "下一刻",
@@ -3753,6 +3753,71 @@
     {
       "chinese": "遮风挡雨",
       "vietnamese": "Che gió chắn mưa / Che chở",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "饭桌",
+      "vietnamese": "Bàn cơm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "眼神一凝",
+      "vietnamese": "Ánh mắt ngưng tụ (tập trung cao độ)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "酒杯",
+      "vietnamese": "Chén rượu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "酒壶",
+      "vietnamese": "Bầu rượu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "赔罪",
+      "vietnamese": "Tạ lỗi",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "喉咙",
+      "vietnamese": "Hầu kết / Cổ họng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "酒水",
+      "vietnamese": "Rượu / Nước rượu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "心如明镜",
+      "vietnamese": "Lòng sáng như gương (tâm trí sáng suốt)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "学艺不精",
+      "vietnamese": "Học nghệ không tinh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "补药",
+      "vietnamese": "Bổ dược",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "肉食",
+      "vietnamese": "Thịt cá / Đồ ăn mặn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "潜龙出渊",
+      "vietnamese": "Tiềm long xuất uyên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "一飞冲天",
+      "vietnamese": "Bay vút tận trời",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

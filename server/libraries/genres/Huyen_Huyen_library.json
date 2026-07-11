@@ -1764,6 +1764,11 @@
       "chinese": "潜龙",
       "vietnamese": "Tiềm long / Rồng ẩn mình",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "八品",
+      "vietnamese": "Bát phẩm (cấp bậc võ giả)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
