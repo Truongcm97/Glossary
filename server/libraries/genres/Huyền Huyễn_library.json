@@ -1,41 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "造袍",
-      "vietnamese": "Tạo bào (áo dài)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "原能",
-      "vietnamese": "Nguyên năng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "武举",
-      "vietnamese": "Võ cử",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "圣庙",
-      "vietnamese": "Thánh miếu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "名师",
-      "vietnamese": "Danh sư",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "制式长刀",
-      "vietnamese": "Trường đao chế thức (đao quân dụng tiêu chuẩn)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "县尊",
-      "vietnamese": "Huyện tôn (cách gọi tôn trọng vị quan huyện)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "抚恤金",
       "vietnamese": "Tiền trợ cấp/tiền tuất (tiền bồi thường khi gặp nạn/bị thương)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
