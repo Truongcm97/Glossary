@@ -1,14 +1,3 @@
 {
-  "mappings": [
-    {
-      "chinese": "嘀咕 / 意见",
-      "vietnamese": "Ý kiến / Lời than phiền",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "窘迫",
-      "vietnamese": "Túng thiếu / Eo hẹp",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    }
-  ]
+  "mappings": []
 }
