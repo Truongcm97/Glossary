@@ -1,51 +1,6 @@
 {
   "mappings": [
     {
-      "chinese": "抚恤金",
-      "vietnamese": "Tiền trợ cấp/tiền tuất (tiền bồi thường khi gặp nạn/bị thương)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "天生灵慧者",
-      "vietnamese": "Thiên Sinh Linh Tuệ giả",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "入品武者",
-      "vietnamese": "Võ giả Nhập Phẩm",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "捕快",
-      "vietnamese": "Bắt Khoái",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "神使",
-      "vietnamese": "Thần Sứ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "宿慧",
-      "vietnamese": "Túc tuệ (trí tuệ kiếp trước)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Túc tuệ)"
-    },
-    {
-      "chinese": "捕头",
-      "vietnamese": "Bộ đầu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
-      "chinese": "入品",
-      "vietnamese": "Nhập phẩm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhập Phẩm)"
-    },
-    {
-      "chinese": "真传弟子",
-      "vietnamese": "Chân truyền đệ tử",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
-    },
-    {
       "chinese": "入品强者",
       "vietnamese": "Nhập Phẩm cường giả",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
