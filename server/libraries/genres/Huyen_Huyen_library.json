@@ -1267,8 +1267,8 @@
     },
     {
       "chinese": "武道六品",
-      "vietnamese": "võ đạo lục phẩm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo lục phẩm)"
+      "vietnamese": "Võ đạo lục phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: võ đạo lục phẩm)"
     },
     {
       "chinese": "武道四品",
@@ -4197,8 +4197,8 @@
     },
     {
       "chinese": "内息爆发",
-      "vietnamese": "Nội tức bộc phát",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Nội tức bùng nổ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nội tức bộc phát)"
     },
     {
       "chinese": "武道五品",
@@ -6597,8 +6597,8 @@
     },
     {
       "chinese": "虚空凌度",
-      "vietnamese": "Hư không lăng độ",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đạp hư không mà đi)"
+      "vietnamese": "Hư không lăng độ (đi trên không trung)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hư không lăng độ)"
     },
     {
       "chinese": "从六品",
@@ -6807,8 +6807,8 @@
     },
     {
       "chinese": "天人宗师",
-      "vietnamese": "Thiên Nhân tông sư",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tông sư Thiên Nhân)"
+      "vietnamese": "Tông sư Thiên Nhân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiên Nhân Tông sư)"
     },
     {
       "chinese": "人道宗师",
@@ -7469,6 +7469,46 @@
       "chinese": "周兴",
       "vietnamese": "Chu Hưng",
       "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "药王谷",
+      "vietnamese": "Dược Vương Cốc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "东陵郡",
+      "vietnamese": "Quận Đông Lăng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江黎",
+      "vietnamese": "Giang Lê",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黄瑜",
+      "vietnamese": "Hoàng Du",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黄长老",
+      "vietnamese": "Hoàng trưởng lão",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "暗疾",
+      "vietnamese": "Ám tật (bệnh ngầm)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "踏空而来",
+      "vietnamese": "Đạp không mà tới",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "入药王谷",
+      "vietnamese": "Nhập Dược Vương Cốc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
 }

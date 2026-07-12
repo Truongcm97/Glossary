@@ -4677,8 +4677,8 @@
     },
     {
       "chinese": "化干戈为玉帛",
-      "vietnamese": "Hóa thù thành bạn / Hóa can qua thành ngọc lụa",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Hóa can qua thành ngọc lụa (hòa giải)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hóa thù thành bạn / Hóa can qua thành ngọc lụa)"
     },
     {
       "chinese": "阴沟里翻船",
@@ -10432,8 +10432,8 @@
     },
     {
       "chinese": "不疾不徐",
-      "vietnamese": "Không nhanh không chậm / Thong dong",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: không nhanh không chậm)"
+      "vietnamese": "Thong dong / Không nhanh không chậm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Không nhanh không chậm / Thong dong)"
     },
     {
       "chinese": "星夜兼程",
@@ -15737,8 +15737,8 @@
     },
     {
       "chinese": "天纵之姿",
-      "vietnamese": "tư chất kinh thiên",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Tư chất thiên tung (tài năng thiên bẩm)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: tư chất kinh thiên)"
     },
     {
       "chinese": "飞鸽传书",
@@ -15898,6 +15898,26 @@
     {
       "chinese": "充公",
       "vietnamese": "Sung công",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "人老成精",
+      "vietnamese": "Người già hóa thành tinh (cáo già/già dặn kinh nghiệm)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一甲子",
+      "vietnamese": "Một giáp (60 năm)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神龙见首不见尾",
+      "vietnamese": "Thần long thấy đầu không thấy đuôi (bí ẩn)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "闲庭散步",
+      "vietnamese": "Nhàn đình tản bộ (ung dung như đi dạo)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
