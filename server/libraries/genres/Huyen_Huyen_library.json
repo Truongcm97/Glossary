@@ -4202,8 +4202,8 @@
     },
     {
       "chinese": "武道五品",
-      "vietnamese": "Võ đạo Ngũ phẩm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo ngũ phẩm)"
+      "vietnamese": "Võ đạo ngũ phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo Ngũ phẩm)"
     },
     {
       "chinese": "掌握内息",
@@ -5682,8 +5682,8 @@
     },
     {
       "chinese": "神裔印记",
-      "vietnamese": "ấn ký thần duệ",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ấn ký thần duệ)"
+      "vietnamese": "Ấn ký thần duệ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: ấn ký thần duệ)"
     },
     {
       "chinese": "五脏神",
@@ -6777,8 +6777,8 @@
     },
     {
       "chinese": "巡察使",
-      "vietnamese": "Tuần sứ (viết tắt)",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Tuần sát sứ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tuần sứ (viết tắt))"
     },
     {
       "chinese": "保命能力",
@@ -7589,6 +7589,26 @@
       "chinese": "黑风十八骑",
       "vietnamese": "Hắc Phong Thập Bát Kỵ",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "魏供奉",
+      "vietnamese": "Ngụy cung phụng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白巡使",
+      "vietnamese": "Bạch tuần sứ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "第八品",
+      "vietnamese": "Bát phẩm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "供奉",
+      "vietnamese": "Cung phụng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
