@@ -37,8 +37,8 @@
     },
     {
       "chinese": "破限",
-      "vietnamese": "Phá hạn",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá hạn / phá vỡ giới hạn)"
+      "vietnamese": "Phá hạn (vượt giới hạn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phá hạn)"
     },
     {
       "chinese": "温养体魄",
@@ -727,8 +727,8 @@
     },
     {
       "chinese": "武道七品",
-      "vietnamese": "Võ đạo thất phẩm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo Thất phẩm)"
+      "vietnamese": "Võ đạo Thất phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo thất phẩm)"
     },
     {
       "chinese": "内壮大成",
@@ -1712,8 +1712,8 @@
     },
     {
       "chinese": "武道八品",
-      "vietnamese": "Võ đạo bát phẩm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo Bát phẩm)"
+      "vietnamese": "Võ đạo Bát phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo bát phẩm)"
     },
     {
       "chinese": "武道秘籍",
@@ -3817,8 +3817,8 @@
     },
     {
       "chinese": "纳须弥戒指",
-      "vietnamese": "Nạp Tu Di Giới (nhẫn không gian)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nạp Tu Di Giới)"
+      "vietnamese": "Nhẫn Nạp Tu Di",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nạp Tu Di Giới (nhẫn không gian))"
     },
     {
       "chinese": "燎原枪法",
@@ -3827,8 +3827,8 @@
     },
     {
       "chinese": "风雷箭术",
-      "vietnamese": "Phong Lôi tiễn thuật",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phong Lôi Tiễn Thuật)"
+      "vietnamese": "Phong Lôi Tiễn Thuật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phong Lôi tiễn thuật)"
     },
     {
       "chinese": "银色玉珏",
@@ -7322,7 +7322,37 @@
     },
     {
       "chinese": "小伯爷",
-      "vietnamese": "Tiểu bá gia",
+      "vietnamese": "Tiểu Bá gia",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiểu bá gia)"
+    },
+    {
+      "chinese": "苦牢",
+      "vietnamese": "Khổ Lao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江宁",
+      "vietnamese": "Giang Ninh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "何金云",
+      "vietnamese": "Hà Kim Vân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "叶秋",
+      "vietnamese": "Diệp Thu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "凤九歌",
+      "vietnamese": "Phượng Cửu Ca",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "洪明虎",
+      "vietnamese": "Hồng Minh Hổ",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

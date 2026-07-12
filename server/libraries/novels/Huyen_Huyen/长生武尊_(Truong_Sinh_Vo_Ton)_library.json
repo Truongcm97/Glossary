@@ -1747,8 +1747,8 @@
     },
     {
       "chinese": "小伯爷",
-      "vietnamese": "Tiểu bá gia",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Tiểu Bá gia",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiểu bá gia)"
     },
     {
       "chinese": "老伯公",
@@ -1972,8 +1972,8 @@
     },
     {
       "chinese": "苦牢",
-      "vietnamese": "Khổ Lao (nhà ngục tra tấn/giam giữ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khổ lao)"
+      "vietnamese": "Khổ Lao",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khổ Lao (nhà ngục tra tấn/giam giữ))"
     },
     {
       "chinese": "水牢",

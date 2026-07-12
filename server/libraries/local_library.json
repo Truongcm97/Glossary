@@ -3877,8 +3877,8 @@
     },
     {
       "chinese": "天生神力",
-      "vietnamese": "Trời sinh thần lực",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Thiên sinh thần lực",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Trời sinh thần lực)"
     },
     {
       "chinese": "时间飞逝",
@@ -5462,8 +5462,8 @@
     },
     {
       "chinese": "依仗",
-      "vietnamese": "Chỗ dựa / Vốn liếng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vốn liếng / Chỗ dựa)"
+      "vietnamese": "Chỗ dựa/Vốn liếng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chỗ dựa / Vốn liếng)"
     },
     {
       "chinese": "裨益",
@@ -5987,8 +5987,8 @@
     },
     {
       "chinese": "蜕变",
-      "vietnamese": "Lột xác/Biến hóa",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lột xác)"
+      "vietnamese": "Lột xác",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lột xác/Biến hóa)"
     },
     {
       "chinese": "宠溺",
@@ -6792,8 +6792,8 @@
     },
     {
       "chinese": "爆发",
-      "vietnamese": "bùng nổ",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bộc phát)"
+      "vietnamese": "Bộc phát",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: bùng nổ)"
     },
     {
       "chinese": "[那]",
@@ -15838,6 +15838,11 @@
     {
       "chinese": "历喝",
       "vietnamese": "Quát tháo / Quát lớn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "败北",
+      "vietnamese": "Bại trận",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
