@@ -15964,6 +15964,11 @@
       "chinese": "绝佳",
       "vietnamese": "tuyệt vời/tuyệt hảo",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "辱人者，人恒辱之",
+      "vietnamese": "Nhục nhân giả, nhân hằng nhục chi",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
