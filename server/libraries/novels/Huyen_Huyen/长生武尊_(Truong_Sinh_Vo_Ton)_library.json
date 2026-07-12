@@ -8,12 +8,12 @@
     {
       "chinese": "江宁",
       "vietnamese": "Giang Ninh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Ninh (Tên nhân vật chính))"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Ninh (tên nhân vật chính))"
     },
     {
       "chinese": "洛水县",
-      "vietnamese": "Huyện Lạc Thủy",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: huyện Lạc Thủy)"
+      "vietnamese": "huyện Lạc Thủy",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện Lạc Thủy)"
     },
     {
       "chinese": "大夏",
@@ -53,7 +53,7 @@
     {
       "chinese": "拜神教",
       "vietnamese": "Bái Thần Giáo",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bái Thần giáo)"
     },
     {
       "chinese": "江上景",
@@ -73,7 +73,7 @@
     {
       "chinese": "沧浪武馆",
       "vietnamese": "Võ quán Thương Lãng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thương Lãng võ quán)"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thương Lãng Võ quán)"
     },
     {
       "chinese": "曹彬",
@@ -98,7 +98,7 @@
     {
       "chinese": "五禽拳",
       "vietnamese": "Ngũ Cầm Quyền",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ngũ Cầm quyền)"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ngũ Cầm Quyền (Võ học))"
     },
     {
       "chinese": "朱兴",
@@ -117,8 +117,8 @@
     },
     {
       "chinese": "小豆包",
-      "vietnamese": "Tiểu Đậu Bao (tên nhân vật)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiểu Đậu Bao)"
+      "vietnamese": "Tiểu Đậu Bao",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiểu Đậu Bao (tên nhân vật))"
     },
     {
       "chinese": "造袍",
@@ -132,8 +132,8 @@
     },
     {
       "chinese": "天生灵慧者",
-      "vietnamese": "Thiên sinh linh tuệ giả (Người trời sinh có linh tuệ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiên sinh linh tuệ giả)"
+      "vietnamese": "Thiên sinh linh tuệ giả",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiên sinh linh tuệ giả (Người trời sinh có linh tuệ))"
     },
     {
       "chinese": "商浪武馆",
@@ -167,8 +167,8 @@
     },
     {
       "chinese": "县尊",
-      "vietnamese": "Huyện tôn (Cách gọi tôn kính vị quan huyện)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện tôn (cách gọi tôn kính vị huyện quan))"
+      "vietnamese": "Huyện tôn (cách gọi tôn trọng vị quan huyện)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện tôn)"
     },
     {
       "chinese": "捕快",
@@ -222,8 +222,8 @@
     },
     {
       "chinese": "江一鸣",
-      "vietnamese": "Giang Nhất Minh (tên nhân vật)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Nhất Minh)"
+      "vietnamese": "Giang Nhất Minh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Nhất Minh (tên nhân vật))"
     },
     {
       "chinese": "阿宁",
@@ -243,12 +243,12 @@
     {
       "chinese": "明月楼",
       "vietnamese": "Minh Nguyệt Lâu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Minh Nguyệt lâu)"
     },
     {
       "chinese": "城隍庙",
       "vietnamese": "Thành Hoàng Miếu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Miếu Thành Hoàng)"
     },
     {
       "chinese": "熊形拳",
@@ -262,8 +262,8 @@
     },
     {
       "chinese": "王都头",
-      "vietnamese": "Đô đầu họ Vương",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương Đô đầu)"
+      "vietnamese": "Vương Đô đầu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương đô đầu)"
     },
     {
       "chinese": "王馆主",
@@ -302,8 +302,8 @@
     },
     {
       "chinese": "劈柴刀法",
-      "vietnamese": "Phách Sài Đao Pháp",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài đao pháp)"
+      "vietnamese": "Phách Sài Đao Pháp (Đao pháp chẻ củi)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phách Sài Đao Pháp)"
     },
     {
       "chinese": "孙大娘",
@@ -323,12 +323,12 @@
     {
       "chinese": "巡察府",
       "vietnamese": "Tuần Sát Phủ",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phủ Tuần Sát)"
     },
     {
       "chinese": "泽山州",
       "vietnamese": "Trạch Sơn Châu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Châu Trạch Sơn)"
     },
     {
       "chinese": "程然",
@@ -367,18 +367,18 @@
     },
     {
       "chinese": "县尉",
-      "vietnamese": "Huyện úy (chức quan phụ trách quân sự/an ninh)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện úy)"
+      "vietnamese": "Huyện úy",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện úy (chức quan phụ trách quân sự/an ninh))"
     },
     {
       "chinese": "主簿",
-      "vietnamese": "Chủ bạ (chức quan quản lý văn thư)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chủ bạ)"
+      "vietnamese": "Chủ bạ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Chủ bạ (chức quan quản lý văn thư))"
     },
     {
       "chinese": "圣庙",
-      "vietnamese": "Thánh miếu",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Thánh Miếu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thánh miếu)"
     },
     {
       "chinese": "内丹养生功",
@@ -412,13 +412,13 @@
     },
     {
       "chinese": "乾元",
-      "vietnamese": "Càn Nguyên (tên một khu vực hoặc sân trong võ quán)",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Càn Nguyên",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Càn Nguyên (tên một khu vực hoặc sân trong võ quán))"
     },
     {
       "chinese": "沈从云",
       "vietnamese": "Thẩm Tòng Vân",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thẩm Tùng Vân)"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: 沈从云)"
     },
     {
       "chinese": "万华楼",
@@ -497,8 +497,8 @@
     },
     {
       "chinese": "王师",
-      "vietnamese": "Vương sư",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương sư (tôn xưng võ sư))"
+      "vietnamese": "Vương sư (Cách gọi kính trọng sư phụ họ Vương)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương sư)"
     },
     {
       "chinese": "沧浪",
@@ -552,8 +552,8 @@
     },
     {
       "chinese": "面板",
-      "vietnamese": "Bảng trạng thái / Bảng thông số",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Bảng trạng thái/Panel",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bảng trạng thái)"
     },
     {
       "chinese": "青蛇帮",
@@ -622,8 +622,8 @@
     },
     {
       "chinese": "月票",
-      "vietnamese": "Phiếu tháng",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Nguyệt phiếu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phiếu tháng)"
     },
     {
       "chinese": "源能",
@@ -638,7 +638,7 @@
     {
       "chinese": "燎原刀法",
       "vietnamese": "Liệu Nguyên Đao Pháp",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Liệu Nguyên đao pháp)"
     },
     {
       "chinese": "沧浪刀法",
@@ -668,7 +668,7 @@
     {
       "chinese": "曹家",
       "vietnamese": "Tào gia",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhà họ Tào)"
     },
     {
       "chinese": "青衣",
@@ -682,8 +682,8 @@
     },
     {
       "chinese": "东陵郡",
-      "vietnamese": "Đông Lăng quận",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông陵 quận)"
+      "vietnamese": "Quận Đông Lăng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông Lăng Quận)"
     },
     {
       "chinese": "[6] 武秀才",
@@ -693,12 +693,12 @@
     {
       "chinese": "曹嵘",
       "vietnamese": "Tào Vanh",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào Vanh (hoặc Tào Nhung))"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào Vinh)"
     },
     {
       "chinese": "东陵城",
-      "vietnamese": "Thành Đông Lăng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: thành Đông Lăng)"
+      "vietnamese": "thành Đông Lăng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông Lăng thành)"
     },
     {
       "chinese": "五禽老魔",
@@ -798,7 +798,7 @@
     {
       "chinese": "混江龙",
       "vietnamese": "Hỗn Giang Long",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hỗn Giang Long (biệt danh))"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hỗn Giang Long (rồng khuấy đảo sông nước))"
     },
     {
       "chinese": "石孝元",
@@ -832,8 +832,8 @@
     },
     {
       "chinese": "炼皮大成",
-      "vietnamese": "Luyện bì đại thành",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Luyện Bì đại thành",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Luyện bì đại thành)"
     },
     {
       "chinese": "宗师",
@@ -897,8 +897,8 @@
     },
     {
       "chinese": "青色帮",
-      "vietnamese": "Thanh Y Bang",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Thanh Xà bang",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thanh Y Bang)"
     },
     {
       "chinese": "洪成涛",
@@ -923,7 +923,7 @@
     {
       "chinese": "洛水",
       "vietnamese": "Lạc Thủy",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lạc Thủy (địa danh))"
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lạc Thủy (tên sông))"
     },
     {
       "chinese": "萧远",
@@ -937,8 +937,8 @@
     },
     {
       "chinese": "白猿",
-      "vietnamese": "Bạch vượn",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Bạch Viên",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bạch vượn)"
     },
     {
       "chinese": "药王谷",
@@ -1028,6 +1028,3366 @@
     {
       "chinese": "淮安王",
       "vietnamese": "Hoài An Vương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "水性",
+      "vietnamese": "Thủy Tính",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thủy tính)"
+    },
+    {
+      "chinese": "源能点",
+      "vietnamese": "Điểm Nguyên Năng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Điểm Nguyên năng)"
+    },
+    {
+      "chinese": "血莲",
+      "vietnamese": "Huyết Liên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "黑蛛玄金丝手套",
+      "vietnamese": "Găng tay Hắc Chu Huyền Kim Ti",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "东院",
+      "vietnamese": "Đông viện",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "叠浪刀法",
+      "vietnamese": "Điệp Lãng Đao Pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[novel]",
+      "vietnamese": "Nội Đan Dưỡng Sinh Công",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vạn Hoa Lâu)"
+    },
+    {
+      "chinese": "[genre]",
+      "vietnamese": "đại nhật chân khí",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: ngũ tạng lôi âm)"
+    },
+    {
+      "chinese": "[global]",
+      "vietnamese": "bừng tỉnh đại ngộ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: thương hoa tiếc ngọc)"
+    },
+    {
+      "chinese": "豹胎易形锻体丹",
+      "vietnamese": "Báo Thai Dịch Hình Đoán Thể Đan",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "韩红梅",
+      "vietnamese": "Hàn Hồng Mai",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "铁砂掌",
+      "vietnamese": "Thiết Sa Chưởng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黑蛛玄金丝",
+      "vietnamese": "Hắc Chu Huyền Kim Ty",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黑玉玄蛛",
+      "vietnamese": "Hắc Ngọc Huyền Chu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "锻兵铺",
+      "vietnamese": "Tiệm rèn binh khí",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiết Binh Phố)"
+    },
+    {
+      "chinese": "武祖",
+      "vietnamese": "Võ Tổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "洛水湖",
+      "vietnamese": "Hồ Lạc Thủy",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "韩主管",
+      "vietnamese": "Hàn quản sự",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "金身汤",
+      "vietnamese": "Thuốc tắm Kim Thân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "梨花胜雪",
+      "vietnamese": "Lê Hoa Thắng Tuyết",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "碧月阁",
+      "vietnamese": "Bích Nguyệt Các",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武苑",
+      "vietnamese": "Võ Uyển",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ Uyển (Học viện võ học))"
+    },
+    {
+      "chinese": "余元",
+      "vietnamese": "Dư Nguyên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "葛正远",
+      "vietnamese": "Cát Chính Viễn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "城门司",
+      "vietnamese": "Thành Môn Ty",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thành Môn ti)"
+    },
+    {
+      "chinese": "神威武馆",
+      "vietnamese": "Thần Uy Võ quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "血肉之神",
+      "vietnamese": "Huyết Nhục Chi Thần",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "迎宾楼",
+      "vietnamese": "Nghênh Tân Lâu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "金叶子",
+      "vietnamese": "Lá vàng (đơn vị tiền tệ)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "兵器架",
+      "vietnamese": "Giá binh khí",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "长刀",
+      "vietnamese": "Trường đao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刀鞘",
+      "vietnamese": "Vỏ đao/Bao đao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "归鞘",
+      "vietnamese": "Tra vỏ/Thu đao về vỏ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "杨开",
+      "vietnamese": "Dương Khai",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "寒光",
+      "vietnamese": "Hàn Quang (tên đao)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hàn Quang)"
+    },
+    {
+      "chinese": "藏兵室",
+      "vietnamese": "Hầm chứa binh khí",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "赤龙翻身",
+      "vietnamese": "Xích Long phiên thân (tên gọi thảm họa thiên nhiên)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "水边",
+      "vietnamese": "Bên mép nước",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "龚老",
+      "vietnamese": "Cung lão",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lão Cung)"
+    },
+    {
+      "chinese": "龙渊",
+      "vietnamese": "Long Uyên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "大掌柜",
+      "vietnamese": "Đại chưởng quỹ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "邱世龙",
+      "vietnamese": "Khâu Thế Long",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "龚明远",
+      "vietnamese": "Cung Minh Viễn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "林嘉儿",
+      "vietnamese": "Lâm Giai Nhi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "龙虎大力丹",
+      "vietnamese": "Long Hổ Đại Lực Đan",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "牛魔大力果",
+      "vietnamese": "Quả Ngưu Ma Đại Lực",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武道八品",
+      "vietnamese": "Võ đạo Bát phẩm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "皮膜",
+      "vietnamese": "Bì màng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "神力境",
+      "vietnamese": "Thần Lực cảnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "劲力",
+      "vietnamese": "Kình lực",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武学",
+      "vietnamese": "Võ học",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "镇宗武学",
+      "vietnamese": "Võ học trấn tông",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "不灭金身",
+      "vietnamese": "Bất Diệt Kim Thân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "圆满",
+      "vietnamese": "Viên mãn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "内视",
+      "vietnamese": "Nội thị",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "气血",
+      "vietnamese": "Khí huyết",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "淬炼",
+      "vietnamese": "Tôi luyện/Rèn luyện",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tôi luyện)"
+    },
+    {
+      "chinese": "灵果",
+      "vietnamese": "Linh quả",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "药力",
+      "vietnamese": "Dược lực",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "退变",
+      "vietnamese": "Lột xác",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "力道",
+      "vietnamese": "Lực đạo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "皮膜如铜",
+      "vietnamese": "Bì màng như đồng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "翻倍",
+      "vietnamese": "Tăng gấp bội",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "手掌心",
+      "vietnamese": "Lòng bàn tay",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "断刀",
+      "vietnamese": "Đao gãy",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白痕",
+      "vietnamese": "Vệt trắng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "硬度",
+      "vietnamese": "Độ cứng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "负荷",
+      "vietnamese": "Quá tải",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "盲区",
+      "vietnamese": "Vùng mù (khoảng trống kiến thức)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "本质",
+      "vietnamese": "Bản chất",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "异种",
+      "vietnamese": "Dị chủng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "万华阁",
+      "vietnamese": "Vạn Hoa Các",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "青蛇",
+      "vietnamese": "Thanh Xà (rắn xanh)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "白龙鱼",
+      "vietnamese": "Bạch Long Ngư",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cá Bạch Long)"
+    },
+    {
+      "chinese": "黄三儿",
+      "vietnamese": "Hoàng Tam",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "楼船",
+      "vietnamese": "Lâu thuyền",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "帮众",
+      "vietnamese": "Bang chúng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "邪神",
+      "vietnamese": "Tà thần",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神使",
+      "vietnamese": "Thần sứ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "沉船",
+      "vietnamese": "Tàu đắm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[沉船]",
+      "vietnamese": "Tàu đắm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[白龙鱼]",
+      "vietnamese": "Bạch Long Ngư",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[石孝元]",
+      "vietnamese": "Thạch Hiếu Nguyên",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[青蛇帮]",
+      "vietnamese": "Thanh Xà Bang",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[洛水县]",
+      "vietnamese": "Huyện Lạc Thủy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[147章]",
+      "vietnamese": "Chương 147",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[楼船]",
+      "vietnamese": "Lâu thuyền (thuyền lớn có tầng lầu)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "荒岛",
+      "vietnamese": "Đảo hoang",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: đảo hoang)"
+    },
+    {
+      "chinese": "宗门",
+      "vietnamese": "Tông môn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "王九",
+      "vietnamese": "Vương Cửu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "伍生",
+      "vietnamese": "Ngũ Sinh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "林楼主",
+      "vietnamese": "Lâm lâu chủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "暴雨剑法",
+      "vietnamese": "Bạo Vũ Kiếm Pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "曹刘谢",
+      "vietnamese": "Tào, Lưu, Tạ (ba nhà)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tào, Lưu, Tạ (ba họ))"
+    },
+    {
+      "chinese": "熔炉化丹术",
+      "vietnamese": "Lò luyện hóa đan thuật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lò Luyện Hóa Đan Thuật)"
+    },
+    {
+      "chinese": "妖孽",
+      "vietnamese": "Yêu nghiệt (kẻ thiên tài/quái vật)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "御水之术",
+      "vietnamese": "Ngự Thủy Chi Thuật",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "滨江楼",
+      "vietnamese": "Tân Giang Lâu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "乱世滩",
+      "vietnamese": "Loạn Thế Than",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bãi Loạn Thế Than)"
+    },
+    {
+      "chinese": "杨掌柜",
+      "vietnamese": "Chưởng quỹ Dương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "金刚令",
+      "vietnamese": "Kim Cương Lệnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "怒目金刚",
+      "vietnamese": "Nộ Mục Kim Cương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "泽山城",
+      "vietnamese": "Trạch Sơn Thành",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "娇躯",
+      "vietnamese": "Thân hình kiều diễm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "楼主",
+      "vietnamese": "Lâu chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "副统领",
+      "vietnamese": "Phó thống lĩnh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phó Thống lĩnh)"
+    },
+    {
+      "chinese": "总捕头",
+      "vietnamese": "Tổng bộ đầu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "城卫司",
+      "vietnamese": "Thành Vệ Ty",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "总司",
+      "vietnamese": "Tổng ty (cơ quan quản lý/chỉ huy)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tổng ty)"
+    },
+    {
+      "chinese": "队正",
+      "vietnamese": "Đội chính (Chức vụ quân sự/quan lại, chỉ huy một đội)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đội chính)"
+    },
+    {
+      "chinese": "巡察卫",
+      "vietnamese": "Tuần sát vệ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "三长老",
+      "vietnamese": "Tam trưởng lão",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "校场",
+      "vietnamese": "Diễn võ trường",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Trường tập)"
+    },
+    {
+      "chinese": "云来客栈",
+      "vietnamese": "Tửu quán/Khách sạn Vân Lai",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vân Lai khách quán)"
+    },
+    {
+      "chinese": "七七",
+      "vietnamese": "Thất Thất",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "神威馆",
+      "vietnamese": "Thần Uy Quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "杜羊",
+      "vietnamese": "Đỗ Dương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "柳三生",
+      "vietnamese": "Liễu Tam Sinh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "府主",
+      "vietnamese": "Phủ chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "洪明虎",
+      "vietnamese": "Hồng Minh Hổ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hồng Minh Hổ (tên nhân vật))"
+    },
+    {
+      "chinese": "公孙宇",
+      "vietnamese": "Công Tôn Vũ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "万毒门",
+      "vietnamese": "Vạn Độc Môn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "林沐",
+      "vietnamese": "Lâm Mộc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "六品巅峰",
+      "vietnamese": "Lục phẩm đỉnh cao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "五品",
+      "vietnamese": "Ngũ phẩm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "内息",
+      "vietnamese": "Nội tức",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "九品武者",
+      "vietnamese": "Cửu phẩm võ giả",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大药",
+      "vietnamese": "Đại dược",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "根骨",
+      "vietnamese": "Căn cốt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "石皮",
+      "vietnamese": "Thạch Bì",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "秘法",
+      "vietnamese": "Bí pháp",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "披甲执锐",
+      "vietnamese": "Giáp trụ chỉnh tề / Mặc giáp cầm vũ khí",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giáp trụ chỉnh tề)"
+    },
+    {
+      "chinese": "龙行虎步",
+      "vietnamese": "Long hành hổ bộ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "惊悸",
+      "vietnamese": "Kinh sợ / Thảng thốt",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Kinh sợ)"
+    },
+    {
+      "chinese": "不形于色",
+      "vietnamese": "Không lộ ra mặt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "挥霍",
+      "vietnamese": "Đổ sông đổ biển / Phung phí",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đổ sông đổ biển)"
+    },
+    {
+      "chinese": "精良",
+      "vietnamese": "Tinh lương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "陨落",
+      "vietnamese": "Bỏ mạng / Ngã xuống",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bỏ mạng)"
+    },
+    {
+      "chinese": "石锁",
+      "vietnamese": "Tạ đá",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "喃喃",
+      "vietnamese": "Lẩm bẩm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "剑阁",
+      "vietnamese": "Kiếm Các",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "巴蜀郡",
+      "vietnamese": "Quận Ba Thục",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "何金云",
+      "vietnamese": "Hà Kim Vân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hà Kim Vân (tên riêng))"
+    },
+    {
+      "chinese": "小伯爷",
+      "vietnamese": "Tiểu bá gia",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "老伯公",
+      "vietnamese": "Lão Bá công",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "踏云锦鞋",
+      "vietnamese": "Đạp Vân cẩm hài",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "秦玄",
+      "vietnamese": "Tần Huyền",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "吕仁耀",
+      "vietnamese": "Lữ Nhân Diệu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "第169章",
+      "vietnamese": "Chương 169",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "谢小九",
+      "vietnamese": "Tạ Tiểu Cửu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "曹子建",
+      "vietnamese": "Tào Tử Kiến",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刘召南",
+      "vietnamese": "Lưu Triệu Nam",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "迭云掌",
+      "vietnamese": "Điệp Vân chưởng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "叠云掌",
+      "vietnamese": "Điệp Vân chưởng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "阮红梅",
+      "vietnamese": "Nguyễn Hồng Mai",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "福远镖局",
+      "vietnamese": "Phúc Viễn tiêu cục",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "府城",
+      "vietnamese": "Phủ thành",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "学府",
+      "vietnamese": "Học Phủ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Học phủ)"
+    },
+    {
+      "chinese": "神弓营",
+      "vietnamese": "Thần Cung Doanh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "河金云",
+      "vietnamese": "Hà Kim Vân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "凤九歌",
+      "vietnamese": "Phượng Cửu Ca",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "校尉",
+      "vietnamese": "Hiệu úy",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "燎原枪法",
+      "vietnamese": "Liệu Nguyên Thương Pháp",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Liệu Nguyên thương pháp)"
+    },
+    {
+      "chinese": "烈火煅金刀",
+      "vietnamese": "Liệt Hỏa Đoán Kim Đao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "叶秋",
+      "vietnamese": "Diệp Thu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Diệp Thu (tên nhân vật))"
+    },
+    {
+      "chinese": "潜龙榜",
+      "vietnamese": "Tiềm Long Bảng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiềm Long bảng)"
+    },
+    {
+      "chinese": "人榜",
+      "vietnamese": "Nhân bảng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "地榜",
+      "vietnamese": "Địa bảng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "天榜",
+      "vietnamese": "Thiên bảng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "营帐",
+      "vietnamese": "Doanh trướng/Đại doanh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "袁飞",
+      "vietnamese": "Viên Phi",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "猿魔真身",
+      "vietnamese": "Viên Ma Chân Thân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "栖月居",
+      "vietnamese": "Tê Nguyệt Cư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "碧水院",
+      "vietnamese": "Bích Thủy Viện",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "依依",
+      "vietnamese": "Y Y",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "李府",
+      "vietnamese": "Lý phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "林捕头",
+      "vietnamese": "Lâm bộ đầu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "许正南",
+      "vietnamese": "Hứa Chính Nam",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "邪神教",
+      "vietnamese": "Tà Thần Giáo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "单县尉",
+      "vietnamese": "Đơn Huyện úy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "洪府主",
+      "vietnamese": "Phủ chủ Hồng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "内务处",
+      "vietnamese": "Nội vụ xứ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "统领",
+      "vietnamese": "Thống lĩnh (chức vụ quân sự)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thống lĩnh)"
+    },
+    {
+      "chinese": "正九品",
+      "vietnamese": "Chính Cửu phẩm (Cấp bậc quan lại)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "富贵楼",
+      "vietnamese": "Phú Quý Lâu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "佟秀芸",
+      "vietnamese": "Đồng Tú Vân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "黄大正",
+      "vietnamese": "Hoàng Đại Chính (tên riêng)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hoàng Đại Chính)"
+    },
+    {
+      "chinese": "啸天河",
+      "vietnamese": "Tiêu Thiên Hà (tên riêng)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiêu Thiên Hà)"
+    },
+    {
+      "chinese": "苦牢",
+      "vietnamese": "Khổ Lao (nhà ngục tra tấn/giam giữ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khổ lao)"
+    },
+    {
+      "chinese": "水牢",
+      "vietnamese": "Thủy lao (nhà tù nước)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "识文断字",
+      "vietnamese": "Đọc hiểu văn tự",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thức Văn Đoạn Tự (biết chữ/học vấn))"
+    },
+    {
+      "chinese": "文庙",
+      "vietnamese": "Văn Miếu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "功名碑",
+      "vietnamese": "Bia công danh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "在江宁的操控下",
+      "vietnamese": "Dưới sự điều khiển của Giang Ninh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江统领",
+      "vietnamese": "Giang thống lĩnh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Giang Thống lĩnh)"
+    },
+    {
+      "chinese": "监天司",
+      "vietnamese": "Giám Thiên Tư",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江公子",
+      "vietnamese": "Giang công tử",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大夏国",
+      "vietnamese": "Đại Hạ quốc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武道七品",
+      "vietnamese": "Võ đạo Thất phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ đạo thất phẩm)"
+    },
+    {
+      "chinese": "清微真人",
+      "vietnamese": "Thanh Vi chân nhân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "须弥戒指",
+      "vietnamese": "Tu Di Giới",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "曹府",
+      "vietnamese": "Tào phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黄天教",
+      "vietnamese": "Hoàng Thiên Giáo",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "经验值",
+      "vietnamese": "Điểm kinh nghiệm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神思敏捷",
+      "vietnamese": "Thần tư mẫn tiệp (tư duy nhanh nhẹn)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thần Tư Mẫn Tiệp)"
+    },
+    {
+      "chinese": "破限",
+      "vietnamese": "Phá hạn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "特性",
+      "vietnamese": "Đặc tính",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "精神力",
+      "vietnamese": "Tinh thần lực",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "悟性",
+      "vietnamese": "Ngộ tính",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "离体",
+      "vietnamese": "Xuất khiếu/Rời cơ thể",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "源能点数",
+      "vietnamese": "Điểm nguồn năng lượng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nguyên năng điểm)"
+    },
+    {
+      "chinese": "刀势",
+      "vietnamese": "Đao thế",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "先天根骨",
+      "vietnamese": "Căn cốt tiên thiên",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神通",
+      "vietnamese": "Thần thông",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "控水",
+      "vietnamese": "Khống thủy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "行云布雨",
+      "vietnamese": "Hành Vân Bố Vũ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "灵兵",
+      "vietnamese": "Linh binh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "午饭过后",
+      "vietnamese": "Sau bữa trưa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "日渐西移",
+      "vietnamese": "Mặt trời dần ngả về tây",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "心念顿时一动",
+      "vietnamese": "Tâm niệm lập tức khẽ động",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "拨云见日",
+      "vietnamese": "Vén mây thấy mặt trời",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "闭目",
+      "vietnamese": "Nhắm mắt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "碎石",
+      "vietnamese": "Đá vụn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "眉心",
+      "vietnamese": "Ấn đường",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "昏沉",
+      "vietnamese": "Choáng váng/mê man",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "消耗过度",
+      "vietnamese": "Tiêu hao quá độ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "喃喃自语",
+      "vietnamese": "Lẩm bẩm tự nói",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "若有所思",
+      "vietnamese": "Lộ vẻ suy tư",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "不仅",
+      "vietnamese": "Không chỉ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "玄黑色",
+      "vietnamese": "Màu đen huyền",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "血光",
+      "vietnamese": "Huyết quang",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "凝聚",
+      "vietnamese": "Ngưng tụ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "若有若无",
+      "vietnamese": "Mơ hồ/không rõ ràng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "宛如实质",
+      "vietnamese": "Tựa như thực chất",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "法阵纹路",
+      "vietnamese": "Vân trận/Vân pháp trận",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "崭新",
+      "vietnamese": "Hoàn toàn mới",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一丈",
+      "vietnamese": "Một trượng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "运用自如",
+      "vietnamese": "Vận dụng thành thạo",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "感叹",
+      "vietnamese": "Cảm thán",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "烦恼",
+      "vietnamese": "Phiền lòng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "浸泡",
+      "vietnamese": "Ngâm/tẩm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "分泌",
+      "vietnamese": "Tiết ra",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神秘物质",
+      "vietnamese": "Vật chất thần bí",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "突破",
+      "vietnamese": "Đột phá",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "抬爱",
+      "vietnamese": "Ưu ái",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天骄",
+      "vietnamese": "Thiên kiêu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "如实",
+      "vietnamese": "Trung thực/thật thà",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "商议",
+      "vietnamese": "Thương nghị",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "魁梧",
+      "vietnamese": "Vạm vỡ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "拱手",
+      "vietnamese": "Chắp tay",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大悟",
+      "vietnamese": "Bừng tỉnh đại ngộ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "语重心长",
+      "vietnamese": "Ân cần/lời nặng nhẹ nhàng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "执拗",
+      "vietnamese": "Cố chấp",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "服软",
+      "vietnamese": "Khuất phục/nhún nhường",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "冷哼",
+      "vietnamese": "Hừ lạnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "城卫军",
+      "vietnamese": "Thành vệ quân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "曹广生",
+      "vietnamese": "Tào Quảng Sinh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "赵明",
+      "vietnamese": "Triệu Minh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "灵蛇剑",
+      "vietnamese": "Linh Xà kiếm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "神道",
+      "vietnamese": "Thần Duệ (chỉnh sửa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "香主",
+      "vietnamese": "Hương chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "风雷门",
+      "vietnamese": "Phong Lôi Môn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "武圣府",
+      "vietnamese": "Võ Thánh Phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "风雷箭法",
+      "vietnamese": "Phong Lôi Tiễn Pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "风雷箭术",
+      "vietnamese": "Phong Lôi Tiễn Thuật",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phong Lôi tiễn thuật)"
+    },
+    {
+      "chinese": "曹副尉",
+      "vietnamese": "Tào phó úy",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "严都尉",
+      "vietnamese": "Đô úy Nghiêm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "金副官",
+      "vietnamese": "Kim phó quan",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "风雷劲",
+      "vietnamese": "Phong Lôi Kình",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "军营",
+      "vietnamese": "Quân doanh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "玉虚观",
+      "vietnamese": "Ngọc Hư Quán",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "唐淼淼",
+      "vietnamese": "Đường Miểu Miểu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đường Miểu Miểu (tên nhân vật))"
+    },
+    {
+      "chinese": "袁华",
+      "vietnamese": "Viên Hoa",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Viên Hoa (tên nhân vật))"
+    },
+    {
+      "chinese": "[江宁] Giang Ninh",
+      "vietnamese": "[novel]",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "舵主",
+      "vietnamese": "Đà chủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "刘临门",
+      "vietnamese": "Lưu Lâm Môn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "变数",
+      "vietnamese": "Biến số",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天王",
+      "vietnamese": "Thiên Vương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "地王",
+      "vietnamese": "Địa Vương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "武道六品",
+      "vietnamese": "Võ đạo lục phẩm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "五品内壮境",
+      "vietnamese": "Ngũ phẩm Nội Tráng cảnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "内息如罡",
+      "vietnamese": "Nội tức như cương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "阴神",
+      "vietnamese": "Âm thần",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "法器",
+      "vietnamese": "Pháp khí",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天眼",
+      "vietnamese": "Thiên Nhãn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiên nhãn)"
+    },
+    {
+      "chinese": "远遁",
+      "vietnamese": "Viễn độn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "雨夜天",
+      "vietnamese": "Đêm mưa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "伸手不见五指",
+      "vietnamese": "Đưa tay không thấy năm ngón",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "后患",
+      "vietnamese": "Hậu họa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "无差别射杀",
+      "vietnamese": "Không phân biệt mà bắn giết",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "杀之而后快",
+      "vietnamese": "Trừ khử cho bằng được",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "举头三尺有神明",
+      "vietnamese": "Giữa thế gian, trên đầu ba thước có thần minh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "破开音障",
+      "vietnamese": "Xé rách âm chướng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神兵利器",
+      "vietnamese": "Thần binh lợi khí",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "无物不破",
+      "vietnamese": "Không gì không phá",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "无坚不摧",
+      "vietnamese": "Không gì không xuyên thủng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "腰斩",
+      "vietnamese": "Chém ngang lưng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "宵小",
+      "vietnamese": "Kẻ tiểu nhân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "流星飞驰",
+      "vietnamese": "Lưu tinh lao tới",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "滴溜溜",
+      "vietnamese": "Xoay tròn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "杂念",
+      "vietnamese": "Tạp niệm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "传讯",
+      "vietnamese": "Truyền tin",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "上古时期",
+      "vietnamese": "Thời kỳ thượng cổ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "主管",
+      "vietnamese": "Quản sự/Chủ quản",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "院子",
+      "vietnamese": "Sân viện",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "长弓",
+      "vietnamese": "Trường cung",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "箭矢",
+      "vietnamese": "Mũi tên",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "玉笋",
+      "vietnamese": "Ngọc duẩn (măng ngọc)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "水火真劲",
+      "vietnamese": "Thủy Hỏa Chân Kình",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "地心寒髓",
+      "vietnamese": "Địa Tâm Hàn Tủy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "赤焰朱果",
+      "vietnamese": "Xích Diễm Chu Quả",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "碧波笋",
+      "vietnamese": "Bích Ba Duẩn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "玄武军",
+      "vietnamese": "Huyền Vũ quân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "龙虎煅筋丹",
+      "vietnamese": "Long Hổ Đốt Cân Đan",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Long Hổ Đoán Cân Đan)"
+    },
+    {
+      "chinese": "须弥戒",
+      "vietnamese": "Tu Di Giới",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nhẫn Tu Di)"
+    },
+    {
+      "chinese": "武者",
+      "vietnamese": "Võ giả",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "皮肉筋骨",
+      "vietnamese": "Da thịt gân cốt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "虎筋",
+      "vietnamese": "Hổ Cân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "蛟筋",
+      "vietnamese": "Giao Cân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "龙筋",
+      "vietnamese": "Long Cân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "爆发力",
+      "vietnamese": "Sức bộc phát",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "内壮境",
+      "vietnamese": "Nội Tráng cảnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "实力的提升",
+      "vietnamese": "Sự nâng cao thực lực",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "夜深人静",
+      "vietnamese": "Đêm khuya thanh vắng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "孤男寡女",
+      "vietnamese": "Trai đơn gái chiếc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "洁癖",
+      "vietnamese": "Bệnh sạch sẽ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "平民百姓",
+      "vietnamese": "Dân đen bách tính",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "却之不恭",
+      "vietnamese": "Cáo từ không dám nhận/Không dám từ chối",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đắc tội/Không khách sáo)"
+    },
+    {
+      "chinese": "底气",
+      "vietnamese": "Sự tự tin vững chắc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一饮而尽",
+      "vietnamese": "Uống cạn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一瞥",
+      "vietnamese": "Liếc nhìn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "襦裙",
+      "vietnamese": "Nhu quần (váy lụa)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "磕碰",
+      "vietnamese": "Va chạm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大筋",
+      "vietnamese": "Đại cân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại cân (gân cốt))"
+    },
+    {
+      "chinese": "牛筋",
+      "vietnamese": "Ngưu Cân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "沧海一粟",
+      "vietnamese": "Hạt cát trong sa mạc/Nhỏ bé như hạt cát",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "过目不忘",
+      "vietnamese": "Quá mục bất vong (nhìn qua là nhớ)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "血气方刚",
+      "vietnamese": "Huyết khí phương cương (tràn đầy sức sống)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "谢府",
+      "vietnamese": "Phủ họ Tạ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大黄",
+      "vietnamese": "Đại Hoàng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "心之箭术",
+      "vietnamese": "Tâm chi Tiễn thuật",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黑山军",
+      "vietnamese": "Quân Hắc Sơn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hắc Sơn quân)"
+    },
+    {
+      "chinese": "黑莲教",
+      "vietnamese": "Hắc Liên Giáo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "大夏朝廷",
+      "vietnamese": "Triều đình Đại Hạ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "佛子",
+      "vietnamese": "Phật tử",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "道子",
+      "vietnamese": "Đạo tử",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "北邱山",
+      "vietnamese": "Núi Bắc Khâu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bắc Khâu Sơn)"
+    },
+    {
+      "chinese": "黑山骑",
+      "vietnamese": "Kỵ binh Hắc Sơn",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hắc Sơn Kỵ)"
+    },
+    {
+      "chinese": "黑魇马",
+      "vietnamese": "Hắc Yểm Mã",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "玄铁甲",
+      "vietnamese": "Giáp Huyền Thiết",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "护教军",
+      "vietnamese": "Hộ Giáo Quân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大鸣府",
+      "vietnamese": "Đại Minh phủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "黑骑军",
+      "vietnamese": "Hắc Kỵ Quân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "刘天师",
+      "vietnamese": "Lưu Thiên sư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "北离李阀",
+      "vietnamese": "Bắc Ly Lý Phiệt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "袁显宗",
+      "vietnamese": "Viên Hiển Tông",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "金轮门",
+      "vietnamese": "Kim Luân Môn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "李长空",
+      "vietnamese": "Lý Trường Không",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "北邙山",
+      "vietnamese": "Núi Bắc Mang",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "陈哥儿",
+      "vietnamese": "Trần ca nhi",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "巡街捕快",
+      "vietnamese": "Bộ khoái tuần phố",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "行如风",
+      "vietnamese": "Hành Như Phong (tên kỹ năng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "临江楼",
+      "vietnamese": "Lâm Giang Lâu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "孙坛主",
+      "vietnamese": "Tôn đàn chủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "郡城",
+      "vietnamese": "Quận thành",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "曹尉",
+      "vietnamese": "Tào úy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "童远",
+      "vietnamese": "Đồng Viễn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "云来楼",
+      "vietnamese": "Vân Lai Lâu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "谷主",
+      "vietnamese": "Cốc chủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "伯爷",
+      "vietnamese": "Bá gia",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "清河伯",
+      "vietnamese": "Thanh Hà Bá",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thanh Hà bá)"
+    },
+    {
+      "chinese": "清河伯府",
+      "vietnamese": "Phủ Thanh Hà Bá",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thanh Hà Bá phủ)"
+    },
+    {
+      "chinese": "黄金盒",
+      "vietnamese": "Hộp vàng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "王妃",
+      "vietnamese": "Vương phi",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "陆青山",
+      "vietnamese": "Lục Thanh Sơn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "青河伯府",
+      "vietnamese": "Thanh Hà Bá phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "百灵血",
+      "vietnamese": "Bách Linh Huyết",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "五品巅峰",
+      "vietnamese": "Đỉnh phong Ngũ phẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ngũ phẩm đỉnh phong)"
+    },
+    {
+      "chinese": "脱胎换骨",
+      "vietnamese": "Thoát thai hoán cốt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武学天赋",
+      "vietnamese": "Thiên phú võ học",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "换血宗师",
+      "vietnamese": "Hoán Huyết Tông sư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "气血之力",
+      "vietnamese": "Khí huyết chi lực",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "邪神雕像",
+      "vietnamese": "Tượng tà thần",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "登门拜访",
+      "vietnamese": "Ghé thăm/Bái phỏng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "一见如故",
+      "vietnamese": "Gặp như đã quen",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "肉体凡胎",
+      "vietnamese": "Nhục thể phàm thai",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "有价无市",
+      "vietnamese": "Hàng có giá mà không có hàng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "旁敲侧击",
+      "vietnamese": "Vòng vo tam quốc/Dò xét",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "冰螭",
+      "vietnamese": "Băng Ly",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "孽螭",
+      "vietnamese": "nghiệt ly",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "白螭",
+      "vietnamese": "Bạch Ly",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "凤啸尘",
+      "vietnamese": "Phượng Khiếu Trần",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一丈峡",
+      "vietnamese": "Nhất Trượng Hạp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "碎石滩",
+      "vietnamese": "Bãi đá vụn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "一百零八天罡地煞锻骨法",
+      "vietnamese": "Pháp rèn xương Thiên Cương Địa Sát một trăm lẻ tám",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "副官",
+      "vietnamese": "Phó quan",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "参军中郎将",
+      "vietnamese": "Tham quân Trung lang tướng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "绿漪",
+      "vietnamese": "Lục Y",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lục Y (Tên riêng))"
+    },
+    {
+      "chinese": "何金生",
+      "vietnamese": "Hà Kim Sinh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "第237章",
+      "vietnamese": "Chương 237",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武圣",
+      "vietnamese": "Võ Thánh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天罡地煞锻骨法",
+      "vietnamese": "Thiên Cương Địa Sát Đoạn Cốt Pháp",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "八九玄功",
+      "vietnamese": "Bát Cửu Huyền Công",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "水火仙衣",
+      "vietnamese": "Thủy Hỏa Tiên Y",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "星护法",
+      "vietnamese": "Tinh Hộ Pháp",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tinh hộ pháp)"
+    },
+    {
+      "chinese": "万花楼",
+      "vietnamese": "Vạn Hoa Lâu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "八殿下",
+      "vietnamese": "Bát điện hạ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "刘家",
+      "vietnamese": "Lưu gia",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "地道",
+      "vietnamese": "Địa đạo/hầm ngầm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神像",
+      "vietnamese": "Tượng thần",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神裔化",
+      "vietnamese": "Thần duệ hóa",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thần duệ hóa (biến hình kiểu thần minh))"
+    },
+    {
+      "chinese": "巡查府",
+      "vietnamese": "Tuần Tra Phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "猛虎帮",
+      "vietnamese": "Mãnh Hổ Bang",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "神机弩",
+      "vietnamese": "Thần Cơ Nỏ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "刘天正",
+      "vietnamese": "Lưu Thiên Chính",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "刘府",
+      "vietnamese": "Lưu phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "围墙",
+      "vietnamese": "Tường vây",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "二合一",
+      "vietnamese": "Gộp hai chương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[novel] Giang Ninh",
+      "vietnamese": "Giang Ninh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "姬明浩",
+      "vietnamese": "Cơ Minh Hạo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "黄天道人",
+      "vietnamese": "Hoàng Thiên Đạo Nhân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "上阙",
+      "vietnamese": "Thượng Khuyết",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "太阴石",
+      "vietnamese": "Thái Âm Thạch",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thái Âm thạch)"
+    },
+    {
+      "chinese": "地心暖玉",
+      "vietnamese": "Địa Tâm Noãn Ngọc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "郡王",
+      "vietnamese": "Quận vương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "纯血龙驹",
+      "vietnamese": "Tuấn mã thuần huyết",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "第261章",
+      "vietnamese": "Chương 261",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "淼焱灵果",
+      "vietnamese": "Miểu Viêm linh quả (Linh quả hệ Thủy Hỏa)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "五行灵果",
+      "vietnamese": "Ngũ Hành linh quả",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "困虎",
+      "vietnamese": "Khốn Hổ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "暴熊",
+      "vietnamese": "Bạo Hùng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "灵猿",
+      "vietnamese": "Linh Viên",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "飞鹤",
+      "vietnamese": "Phi Hạc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "宁鹿",
+      "vietnamese": "Ninh Lộc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "风雷之息",
+      "vietnamese": "Phong Lôi Chi Tức",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "野参",
+      "vietnamese": "Dã sâm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "风神使",
+      "vietnamese": "Phong Thần Sứ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[3] 百灵血",
+      "vietnamese": "Bách Linh Huyết",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[8] 风神使",
+      "vietnamese": "Phong Thần Sứ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[9] 星护法",
+      "vietnamese": "Tinh hộ pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "冤魂鬼魅",
+      "vietnamese": "Quỷ mị/bóng ma",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神傀",
+      "vietnamese": "Thần Khôi",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thần khôi (thần khôi儡))"
+    },
+    {
+      "chinese": "神裔",
+      "vietnamese": "Thần Duệ (Hậu duệ của thần)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thần Duệ)"
+    },
+    {
+      "chinese": "Giang Ninh",
+      "vietnamese": "Giang Ninh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "势能",
+      "vietnamese": "Thế năng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "箭术",
+      "vietnamese": "Tiễn thuật",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "功法",
+      "vietnamese": "Công pháp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "玉骨境",
+      "vietnamese": "Ngọc Cốt cảnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "四品",
+      "vietnamese": "Tứ phẩm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "六品",
+      "vietnamese": "Lục phẩm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "鬼魅",
+      "vietnamese": "Quỷ mị",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "纷纷扬扬",
+      "vietnamese": "Lả tả (tuyết rơi)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "前车之鉴",
+      "vietnamese": "Bài học nhãn tiền",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "连绵不绝",
+      "vietnamese": "Liên miên bất tuyệt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "异象",
+      "vietnamese": "Dị tượng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "眼热",
+      "vietnamese": "Thèm muốn / Ghen tị",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "颓势",
+      "vietnamese": "Thế suy sụp / Dấu hiệu đuối sức",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "惊世骇俗",
+      "vietnamese": "Kinh thế hãi tục",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "玄骨",
+      "vietnamese": "Huyền Cốt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "蛮熊",
+      "vietnamese": "Man hùng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "肾水鹤",
+      "vietnamese": "Thận Thủy Hạc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "肝木鹿",
+      "vietnamese": "Can Mộc Lộc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "六臂神裔",
+      "vietnamese": "Thần Duệ sáu tay",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "神谕",
+      "vietnamese": "Thần dụ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "护法尊神",
+      "vietnamese": "Hộ pháp tôn thần",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "神裔眷属",
+      "vietnamese": "Quyến thuộc của thần",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thần Duệ quyến thuộc)"
+    },
+    {
+      "chinese": "白婆婆",
+      "vietnamese": "Bạch bà bà",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "天罡阳",
+      "vietnamese": "Thiên Cương Dương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "地煞阴",
+      "vietnamese": "Địa Sát Âm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "五脏神",
+      "vietnamese": "Ngũ tạng thần",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ngũ Tạng Thần)"
+    },
+    {
+      "chinese": "磨刀不误砍柴工",
+      "vietnamese": "Mài dao không lỡ việc đốn củi (thành ngữ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "心火虎",
+      "vietnamese": "Tâm Hỏa Hổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "脾土熊",
+      "vietnamese": "Tỳ Thổ Hùng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "肺金猿",
+      "vietnamese": "Phế Kim Viên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "肾水鹏",
+      "vietnamese": "Thận Thủy Bằng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白雪赤焰驹",
+      "vietnamese": "Bạch Tuyết Xích Diễm Câu",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Bạch Tuyết Xích Diễm Câu (tên loài ngựa))"
+    },
+    {
+      "chinese": "便宜师父",
+      "vietnamese": "Sư phụ \"tiện tay\" nhận (sư phụ hời)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "鸢鸢",
+      "vietnamese": "Diên Diên (tên riêng)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "三江",
+      "vietnamese": "Tam Giang (trang chủ/đề cử danh giá)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "从八品",
+      "vietnamese": "Tòng bát phẩm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "武进士",
+      "vietnamese": "Võ tiến sĩ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武状元",
+      "vietnamese": "Võ trạng nguyên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武举",
+      "vietnamese": "Võ cử",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武举人",
+      "vietnamese": "Võ Cử Nhân",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Võ cử nhân)"
+    },
+    {
+      "chinese": "水月剑宫",
+      "vietnamese": "Thủy Nguyệt Kiếm Cung",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thủy Vuyệt Kiếm Cung)"
+    },
+    {
+      "chinese": "水月仙子",
+      "vietnamese": "Thủy Nguyệt tiên tử",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "肖琛",
+      "vietnamese": "Tiêu Sâm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[16] 守备使",
+      "vietnamese": "Thủ bị sứ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[24] 总司",
+      "vietnamese": "Tổng ty (Chức vụ chỉ huy quân sự/cảnh vệ)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[54] 巡察府",
+      "vietnamese": "Tuần Sát Phủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[57] 黑山骑",
+      "vietnamese": "Hắc Sơn Kỵ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[143] 黑魇马",
+      "vietnamese": "Hắc Yểm Mã",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[168] 神机弩",
+      "vietnamese": "Thần Cơ Nỏ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "圣女",
+      "vietnamese": "Thánh nữ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "守备使",
+      "vietnamese": "Thủ bị sứ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "心箭术",
+      "vietnamese": "Tâm Tiễn thuật",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "黑莲老母",
+      "vietnamese": "Hắc Liên Lão Mẫu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "谢家",
+      "vietnamese": "Tạ gia",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刮骨疗伤",
+      "vietnamese": "Cắt thịt chữa bệnh (nghĩa bóng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "谢正天",
+      "vietnamese": "Tạ Chính Thiên",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "练功服",
+      "vietnamese": "Võ phục",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "大道院子",
+      "vietnamese": "Viện tử lớn / Sân viện",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "大夏律法",
+      "vietnamese": "Luật Đại Hạ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "平原王家",
+      "vietnamese": "Bình nguyên Vương gia",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "帝流浆",
+      "vietnamese": "Đế Lưu Tương",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đế lưu tương)"
+    },
+    {
+      "chinese": "内务府",
+      "vietnamese": "Nội vụ phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "白洛玉",
+      "vietnamese": "Bạch Lạc Ngọc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "萧峨眉",
+      "vietnamese": "Tiêu Nga My",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "独倚高楼",
+      "vietnamese": "Độc tọa nơi cao (nghĩa bóng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "武秀才",
+      "vietnamese": "Võ Tú Tài",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[县衙]",
+      "vietnamese": "Huyện nha",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "[302章]",
+      "vietnamese": "Chương 302",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[李宏]",
+      "vietnamese": "Lý Hoành",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[风神使]",
+      "vietnamese": "Phong Thần Sứ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[拜神教]",
+      "vietnamese": "Bái Thần Giáo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[血肉之神]",
+      "vietnamese": "Huyết Nhục Chi Thần",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[洪明虎]",
+      "vietnamese": "Hồng Minh Hổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[七品县尊]",
+      "vietnamese": "Huyện tôn thất phẩm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[李长空]",
+      "vietnamese": "Lý Trường Không",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[叶秋]",
+      "vietnamese": "Diệp Thu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "[巡察府]",
+      "vietnamese": "Tuần Sát Phủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "李宏",
+      "vietnamese": "Lý Hoành",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "道宫",
+      "vietnamese": "Đạo Cung",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đạo cung)"
+    },
+    {
+      "chinese": "白雪赤炎驹",
+      "vietnamese": "Bạch Tuyết Xích Viêm Câu (tên sinh vật/thú cưỡi)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "巡察使",
+      "vietnamese": "Tuần sát sứ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tuần Sát Sứ)"
+    },
+    {
+      "chinese": "巡抚",
+      "vietnamese": "Tuần phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "本府",
+      "vietnamese": "Bổn phủ / Phủ chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大统领",
+      "vietnamese": "Đại thống lĩnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天机箓",
+      "vietnamese": "Thiên Cơ Lục",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "县令",
+      "vietnamese": "Huyện lệnh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "曲江池",
+      "vietnamese": "Hồ Khúc Giang",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "东陵",
+      "vietnamese": "Đông Lăng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "朱氏药铺",
+      "vietnamese": "Chu Thị Dược Phố",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "巡使",
+      "vietnamese": "Tuần sứ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "金镶玉珏",
+      "vietnamese": "Ngọc bội khảm vàng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "周师兄",
+      "vietnamese": "Chu sư huynh",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江师弟",
+      "vietnamese": "Giang sư đệ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "同济堂",
+      "vietnamese": "Đồng Tế Đường",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "偏院",
+      "vietnamese": "thiên viện/viện nhỏ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thiên viện)"
+    },
+    {
+      "chinese": "困火虎",
+      "vietnamese": "Khốn Hỏa Hổ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "大鹏",
+      "vietnamese": "Đại Bằng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "萧秋水",
+      "vietnamese": "Tiêu Thu Thủy",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "丹阳宗",
+      "vietnamese": "Đan Dương Tông",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "黑山",
+      "vietnamese": "Hắc Sơn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "潜龙榜人榜",
+      "vietnamese": "Tiềm Long Bảng Nhân bảng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "颔首",
+      "vietnamese": "Gật đầu (trang trọng)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "五品真解",
+      "vietnamese": "Ngũ Phẩm Chân Giải",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "五行灵蕴",
+      "vietnamese": "Ngũ hành linh uẩn",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "内息成罡",
+      "vietnamese": "Nội tức thành cương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "五脏雷音",
+      "vietnamese": "Ngũ tạng lôi âm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "天衣无缝",
+      "vietnamese": "Thiên y vô phùng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "传音入密",
+      "vietnamese": "Truyền âm nhập mật",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "沦陷",
+      "vietnamese": "Thất thủ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "勃发",
+      "vietnamese": "Bùng phát",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "穿透",
+      "vietnamese": "Xuyên thủng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "古井无波",
+      "vietnamese": "Tĩnh lặng như nước",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "后发而先至",
+      "vietnamese": "Hậu phát chế nhân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "霄小",
+      "vietnamese": "Tiểu nhân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "气吞山河",
+      "vietnamese": "Nuốt chửng núi sông",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "楚楚可怜",
+      "vietnamese": "Sở sở khả liên (Đáng thương)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "飞天信翁",
+      "vietnamese": "Phi Thiên Tín Ông",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "萧秋月",
+      "vietnamese": "Tiêu Thu Nguyệt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "余蔓芸",
+      "vietnamese": "Dư Mạn Vân",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "姬明月",
+      "vietnamese": "Cơ Minh Nguyệt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "水葵花",
+      "vietnamese": "Thủy Quỳ Hoa",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Thủy quỳ hoa)"
+    },
+    {
+      "chinese": "蛇蛟草",
+      "vietnamese": "Xà Giao Thảo",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cỏ xà giao)"
+    },
+    {
+      "chinese": "五感",
+      "vietnamese": "Ngũ giác",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "炼化",
+      "vietnamese": "Luyện hóa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "求月票",
+      "vietnamese": "Cầu nguyệt phiếu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "前世",
+      "vietnamese": "Kiếp trước",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "暗语",
+      "vietnamese": "Thầm nghĩ / Lời nói thầm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "暗暗",
+      "vietnamese": "Âm thầm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "抽奖",
+      "vietnamese": "Rút thăm trúng thưởng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "感知",
+      "vietnamese": "Cảm giác / Cảm nhận",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "第六感",
+      "vietnamese": "Giác quan thứ sáu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "直觉",
+      "vietnamese": "Trực giác",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "蜕变",
+      "vietnamese": "Lột xác / Biến hóa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "暗流",
+      "vietnamese": "Ám lưu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一白遮百丑",
+      "vietnamese": "Một trắng che trăm xấu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天姿国色",
+      "vietnamese": "Thiên tư quốc sắc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "地毯式",
+      "vietnamese": "Kiểu quét thảm (tìm kiếm kỹ lưỡng)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "蓝晶石",
+      "vietnamese": "Lam Tinh Thạch",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "雷蛟",
+      "vietnamese": "Lôi Giao",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "雷鸣果",
+      "vietnamese": "Quả Lôi Minh",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lôi Minh Quả)"
+    },
+    {
+      "chinese": "老鳖",
+      "vietnamese": "Lão Miết (cụ ba ba)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lão Miết)"
+    },
+    {
+      "chinese": "雅丹",
+      "vietnamese": "Nhã Đan",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "电鳗",
+      "vietnamese": "Lươn điện",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "蕴含",
+      "vietnamese": "Ẩn chứa/Chứa đựng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "五脏六腑",
+      "vietnamese": "Ngũ tạng lục phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "功力",
+      "vietnamese": "Công lực",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "观想",
+      "vietnamese": "Quán tưởng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "天材地宝",
+      "vietnamese": "Thiên tài địa bảo",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "化妖",
+      "vietnamese": "Hóa yêu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "宝骨",
+      "vietnamese": "Bảo cốt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "纹路",
+      "vietnamese": "Văn lộ/Đường vân",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "威势非凡",
+      "vietnamese": "Uy thế phi phàm",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "生机",
+      "vietnamese": "Sinh cơ (sức sống)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "骨骼",
+      "vietnamese": "Xương cốt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "玄奥",
+      "vietnamese": "Huyền ảo/Sâu xa",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "杀伐手段",
+      "vietnamese": "Thủ đoạn sát phạt",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "至理",
+      "vietnamese": "Chí lý (đạo lý cao thâm)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "认主",
+      "vietnamese": "Nhận chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "游龙",
+      "vietnamese": "Du long (rồng bơi)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大补之物",
+      "vietnamese": "Vật đại bổ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "药性",
+      "vietnamese": "Dược tính",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "雷鸣树",
+      "vietnamese": "Lôi Minh Thụ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cây Lôi Minh)"
+    },
+    {
+      "chinese": "大妖",
+      "vietnamese": "Đại yêu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "惊涛",
+      "vietnamese": "Kinh Đào",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江河之主",
+      "vietnamese": "Giang Hà Chi Chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "江河之力",
+      "vietnamese": "Giang Hà Chi Lực",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "大五行水遁",
+      "vietnamese": "Đại Ngũ Hành Thủy Độn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "河流之主",
+      "vietnamese": "Chủ nhân dòng sông",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "龙鲤",
+      "vietnamese": "Long Lý",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "河东",
+      "vietnamese": "Hà Đông",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "河西",
+      "vietnamese": "Hà Tây",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "玲珑",
+      "vietnamese": "Linh Lung",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "怒江",
+      "vietnamese": "Nộ Giang",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "洛水城",
+      "vietnamese": "Lạc Thủy thành",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "人道宗师",
+      "vietnamese": "Nhân Đạo tông sư",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "妖王",
+      "vietnamese": "Yêu vương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "雷劫",
+      "vietnamese": "Lôi kiếp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "道行",
+      "vietnamese": "Đạo hạnh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "仙籍",
+      "vietnamese": "Tiên tịch",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "内丹",
+      "vietnamese": "Nội đan",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "内息如海",
+      "vietnamese": "Nội tức như hải",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "内息如渊",
+      "vietnamese": "Nội tức như vực",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "甲子",
+      "vietnamese": "Giáp (60 năm)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "款款",
+      "vietnamese": "Thong thả/Dịu dàng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "反光",
+      "vietnamese": "Phản quang",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "顺势",
+      "vietnamese": "Thuận thế",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "并和",
+      "vietnamese": "Khép lại",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "蜷曲",
+      "vietnamese": "Cuộn mình/Co lại",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "蜗居",
+      "vietnamese": "Co cụm/Nhà chật hẹp",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "证道",
+      "vietnamese": "Chứng đạo",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "餐风饮露",
+      "vietnamese": "Uống sương ăn gió",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "清修",
+      "vietnamese": "Thanh tu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "吞吐日月精华",
+      "vietnamese": "Hấp thu tinh hoa nhật nguyệt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "十死一生",
+      "vietnamese": "Thập tử nhất sinh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "百死无生",
+      "vietnamese": "Bách tử vô sinh",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "威名赫赫",
+      "vietnamese": "Uy danh hiển hách",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "嗷啸一方",
+      "vietnamese": "Gầm thét một phương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "只言片语",
+      "vietnamese": "Chỉ là vài lời/Vài chữ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "冠绝同代",
+      "vietnamese": "Đứng đầu đồng lứa",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "高不成低不就",
+      "vietnamese": "Cao không tới thấp không xong",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "匪夷所思",
+      "vietnamese": "Khó tin/Kỳ quái",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "压箱底",
+      "vietnamese": "Tẩy bài/Át chủ bài",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "提神醒脑",
+      "vietnamese": "Tỉnh táo đầu óc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "老龟",
+      "vietnamese": "Lão Quy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "双阳山",
+      "vietnamese": "Núi Song Dương",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白沙县",
+      "vietnamese": "Huyện Bạch Sa",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "刘光启",
+      "vietnamese": "Lưu Quang Khải",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "聚义堂",
+      "vietnamese": "Tụ Nghĩa Đường",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "双风寨",
+      "vietnamese": "Song Phong trại",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "虎威镖局",
+      "vietnamese": "Hổ Uy phiêu cục",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "陈留县",
+      "vietnamese": "Huyện Trần Lưu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "环首刀",
+      "vietnamese": "Hoàn thủ đao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "嫡女",
+      "vietnamese": "Đích nữ (con gái vợ cả)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đích nữ)"
+    },
+    {
+      "chinese": "第336章",
+      "vietnamese": "Chương 336",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "钱债肉偿",
+      "vietnamese": "Nợ tiền trả bằng thịt (dịch thoát ý",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "百草堂",
+      "vietnamese": "Bách Thảo Đường",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "苏家",
+      "vietnamese": "Tô gia",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "江秀才",
+      "vietnamese": "Giang Tú tài",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "老刘",
+      "vietnamese": "Lão Lưu",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "为师",
+      "vietnamese": "Vi sư/Ta (cách xưng hô của thầy)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "便宜徒弟",
+      "vietnamese": "Đồ đệ tiện nghi",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "宗主",
+      "vietnamese": "Tông chủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "南疆",
+      "vietnamese": "Nam Cương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "妖国",
+      "vietnamese": "Yêu quốc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "九尾狐",
+      "vietnamese": "Cửu Vĩ Hồ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "白巡使",
+      "vietnamese": "Bạch tuần sứ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "锦绣云袍",
+      "vietnamese": "Cẩm tú vân bào (y phục thêu gấm mây)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "金缕云靴",
+      "vietnamese": "Kim lũ vân hài (giày thêu chỉ vàng hình mây)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]
