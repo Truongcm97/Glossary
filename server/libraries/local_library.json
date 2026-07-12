@@ -62,8 +62,8 @@
     },
     {
       "chinese": "大家闺秀",
-      "vietnamese": "Tiểu thư khuê các",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đại gia khuê tú)"
+      "vietnamese": "Đại gia khuê tú",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tiểu thư khuê các)"
     },
     {
       "chinese": "不咸不淡",
@@ -592,8 +592,8 @@
     },
     {
       "chinese": "喃喃",
-      "vietnamese": "lẩm bẩm",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lẩm bẩm)"
+      "vietnamese": "Lẩm bẩm",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: lẩm bẩm)"
     },
     {
       "chinese": "置身事外",
@@ -1882,8 +1882,8 @@
     },
     {
       "chinese": "嚣张",
-      "vietnamese": "Ngông cuồng / Kiêu ngạo",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Kiêu ngạo/ngông cuồng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Ngông cuồng / Kiêu ngạo)"
     },
     {
       "chinese": "牵扯",
@@ -4737,8 +4737,8 @@
     },
     {
       "chinese": "地契",
-      "vietnamese": "Khế ước (đất đai)",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Địa khế (khế ước đất đai)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Khế ước (đất đai))"
     },
     {
       "chinese": "冷清",
@@ -8977,8 +8977,8 @@
     },
     {
       "chinese": "护院",
-      "vietnamese": "Hộ viện",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Hộ viện (người bảo vệ/vệ sĩ)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Hộ viện)"
     },
     {
       "chinese": "传讯",
@@ -15843,6 +15843,61 @@
     {
       "chinese": "败北",
       "vietnamese": "Bại trận",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "酥肩",
+      "vietnamese": "Bờ vai trần gợi cảm",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "盘发",
+      "vietnamese": "Búi tóc",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "稍等片刻",
+      "vietnamese": "Chờ một lát",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "天方夜谭",
+      "vietnamese": "Chuyện viển vông/Chuyện lạ đời",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "嫁做人妻",
+      "vietnamese": "Ra dáng người phụ nữ đã có chồng",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "炊饼",
+      "vietnamese": "Xuy bính (bánh bao hấp)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "琼浆玉液",
+      "vietnamese": "Quỳnh tương ngọc dịch (rượu ngon)",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "纱布",
+      "vietnamese": "Băng gạc",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "一览众山小",
+      "vietnamese": "Nhất lãm chúng sơn tiểu",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "揉了揉眼睛",
+      "vietnamese": "Dụi mắt",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "充公",
+      "vietnamese": "Sung công",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

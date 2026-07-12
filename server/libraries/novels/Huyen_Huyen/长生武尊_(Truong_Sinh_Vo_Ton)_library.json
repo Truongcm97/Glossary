@@ -12,8 +12,8 @@
     },
     {
       "chinese": "洛水县",
-      "vietnamese": "huyện Lạc Thủy",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Huyện Lạc Thủy)"
+      "vietnamese": "Huyện Lạc Thủy",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: huyện Lạc Thủy)"
     },
     {
       "chinese": "大夏",
@@ -497,8 +497,8 @@
     },
     {
       "chinese": "王师",
-      "vietnamese": "Vương sư (Cách gọi kính trọng sư phụ họ Vương)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương sư)"
+      "vietnamese": "Vương sư",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Vương sư (Cách gọi kính trọng sư phụ họ Vương))"
     },
     {
       "chinese": "沧浪",
@@ -697,8 +697,8 @@
     },
     {
       "chinese": "东陵城",
-      "vietnamese": "thành Đông Lăng",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đông Lăng thành)"
+      "vietnamese": "Thành Đông Lăng",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: thành Đông Lăng)"
     },
     {
       "chinese": "五禽老魔",
@@ -4112,8 +4112,8 @@
     },
     {
       "chinese": "怒江",
-      "vietnamese": "Nộ Giang",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Sông Nộ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Nộ Giang)"
     },
     {
       "chinese": "洛水城",
@@ -4389,6 +4389,31 @@
       "chinese": "金缕云靴",
       "vietnamese": "Kim lũ vân hài (giày thêu chỉ vàng hình mây)",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "白府",
+      "vietnamese": "Bạch phủ",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "王富贵",
+      "vietnamese": "Vương Phú Quý",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "和广坤",
+      "vietnamese": "Hòa Quảng Khôn",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "赵玉龙",
+      "vietnamese": "Triệu Ngọc Long",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "刘富贵",
+      "vietnamese": "Lưu Phú Quý",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
 }
