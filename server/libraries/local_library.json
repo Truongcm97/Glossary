@@ -7652,8 +7652,8 @@
     },
     {
       "chinese": "如雷贯耳",
-      "vietnamese": "Như sấm bên tai",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Như sấm bên tai (nổi tiếng)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Như sấm bên tai)"
     },
     {
       "chinese": "内敛",
@@ -7697,8 +7697,8 @@
     },
     {
       "chinese": "灰袍",
-      "vietnamese": "Tro bào (áo màu xám)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Áo xám)"
+      "vietnamese": "Trường bào màu xám",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Tro bào (áo màu xám))"
     },
     {
       "chinese": "悬着的心",
@@ -11572,8 +11572,8 @@
     },
     {
       "chinese": "及冠",
-      "vietnamese": "Cập quan (tuổi trưởng thành)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cập quan)"
+      "vietnamese": "Cập quán (Tuổi trưởng thành)",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Cập quan (tuổi trưởng thành))"
     },
     {
       "chinese": "路有冻死骨",
@@ -12732,8 +12732,8 @@
     },
     {
       "chinese": "投桃报李",
-      "vietnamese": "Có qua có lại/Đền ơn đáp nghĩa",
-      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+      "vietnamese": "Đáp lễ lại (Thành ngữ \"ném đào trả mận\")",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Có qua có lại/Đền ơn đáp nghĩa)"
     },
     {
       "chinese": "大街小巷",
@@ -16082,13 +16082,13 @@
     },
     {
       "chinese": "防贼千日",
-      "vietnamese": "Phòng trộm ngàn ngày (Thành ngữ)",
-      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+      "vietnamese": "Phòng trộm ngàn ngày",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Phòng trộm ngàn ngày (Thành ngữ))"
     },
     {
       "chinese": "对弈",
-      "vietnamese": "Đối弈 (đánh cờ)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đánh cờ / Đối弈)"
+      "vietnamese": "Đánh cờ",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Đối弈 (đánh cờ))"
     },
     {
       "chinese": "再说了",
@@ -17538,6 +17538,66 @@
     {
       "chinese": "炊烟袅袅",
       "vietnamese": "Khói bếp lượn lờ",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "换个地方",
+      "vietnamese": "Đổi nơi khác",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "放榜",
+      "vietnamese": "Công bố bảng vàng",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "光辉",
+      "vietnamese": "Quang huy",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "喷薄",
+      "vietnamese": "Tuôn trào",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "间隙",
+      "vietnamese": "Hiềm khích",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "得力干将",
+      "vietnamese": "Thuộc hạ đắc lực",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "虚实",
+      "vietnamese": "Hư thực",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "不一而足",
+      "vietnamese": "Không kể xiết / Đủ mọi loại",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "乡试",
+      "vietnamese": "Thi Hương",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "华灯初上",
+      "vietnamese": "Hoa đăng mới lên (chập tối)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "觥筹交错",
+      "vietnamese": "Chén qua đũa lại (tiệc tùng)",
+      "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
+    },
+    {
+      "chinese": "德不配位",
+      "vietnamese": "Đức không xứng với vị",
       "description": "Gemini tự học tổ hợp cụm từ/thành ngữ trong quá trình tinh chỉnh chương"
     }
   ]

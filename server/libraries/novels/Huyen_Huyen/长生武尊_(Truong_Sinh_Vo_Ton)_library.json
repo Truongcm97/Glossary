@@ -3952,8 +3952,8 @@
     },
     {
       "chinese": "老鳖",
-      "vietnamese": "Lão Miết (Lão ba ba)",
-      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lão Miết)"
+      "vietnamese": "Lão Miết",
+      "description": "Ghi đè tự động bằng nghĩa mới/tối ưu hơn từ Gemini (Cũ: Lão Miết (Lão ba ba))"
     },
     {
       "chinese": "雅丹",
@@ -4983,6 +4983,11 @@
     {
       "chinese": "严幼蛟",
       "vietnamese": "Nghiêm Ấu Giao",
+      "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
+    },
+    {
+      "chinese": "魁首宴",
+      "vietnamese": "Yến tiệc Khôi thủ",
       "description": "Gemini tự học bổ sung trong quá trình dịch bù chương truyện"
     }
   ]
